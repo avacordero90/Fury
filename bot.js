@@ -165,7 +165,7 @@ function startInterview (msg) {
 
 	if (server.logCategory == -1) {
 		util.reply(msg, "Emissary", "Emissary has not been set up on this server yet.")
-	} else if (user.interviews.hasOwnProperty(server.id)) {
+	} else if (server.id in user.interviews) {
 		util.reply(msg, "Emissary", "Interview has already been started.")
 	} else {
 		try {

@@ -13,8 +13,8 @@ class User {
 			this.name = obj.username;
 			this.avatar = obj.avatarURL;
 
-			if (this.interviews != undefined)
-				this.interviews = user.interviews;
+			if (obj.interviews != undefined)
+				this.interviews = obj.interviews;
 			else
 				this.interviews = {};
 
@@ -24,7 +24,7 @@ class User {
 			this.name = user.username;
 			this.avatar = user.avatarURL;
 			
-			if (this.interviews != undefined)
+			if (user.interviews != undefined)
 				this.interviews = user.interviews;
 			else
 				this.interviews = {};
