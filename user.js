@@ -1,0 +1,162 @@
+const fs = require('fs');
+
+
+
+class User {
+	constructor (user) {
+		this.id = user.id;
+		this.tag = user.tag;
+		this.name = user.username;
+		this.avatar = user.avatarURL;
+		
+		if (this.interviews != null)
+			this.interviews = user.interviews;
+		else
+			this.interviews = {};
+
+		this.setUser();
+	}
+
+	addInterview (guildId, channelId) {
+		this.interviews[guildId] = channelId;
+		this.setUser();
+
+	}
+
+	setUser () {
+		var json = JSON.stringify(this);
+		fs.writeFileSync(`users/${this.id}.json`, json, 'utf8', (err) => {
+			if (err){
+				util.log(err);
+			}
+		});
+	}
+
+	getUser () {
+		var data = fs.readFileSync(`users/${this.id}.json`, 'utf8', (err) => {
+			if (err)
+				util.log(err);
+		});
+		if (data) {
+			// log(data);
+			return new User(JSON.parse(data)); //now it an object
+		} else log("User not found.");
+	}
+
+	isUser () {
+		try {
+			// if channels with this.id and this.logCategory exist
+			
+			// util.log(guild.id);
+
+			if (this.isUserFile()) {
+				// true
+				return true;
+			// otherwise
+			} else {
+				//false
+				return false;
+			}
+		} catch (err) {
+			util.log(err);
+		}
+	}
+
+	isUserFile () {
+		try {
+			if (fs.existsSync(`users/${this.id}.json`))
+				return true;
+			else
+				return false;
+		} catch (err) {
+			util.log(err);
+		}
+	}
+
+	static isUser (guild, user) {
+		try {
+			var file = this.isUserFile(user);
+
+			// util.log(user.interviews[guild.id]);
+
+			// if channel with this.id and this.logCategory exist
+			if (file && guild.channels.cache.get(user.interviews[guild.id])) {
+				// true
+				return true;
+			// otherwise
+			} else {
+				//false
+				return false;
+			}
+		} catch (err) {
+			util.log(err);
+		}
+	}
+
+	static isUserFile (user) {
+		try {
+			if (fs.existsSync(`users/${user.id}.json`))
+				return true;
+			else
+				return false;
+		} catch (err) {
+			util.log(err);
+		}
+	}
+
+	// isUserFile () {
+	// 	try {
+	// 		if (fs.existsSync(`users/${this.id}.json`))
+	// 			return true;
+	// 		else
+	// 			return false;
+	// 	} catch (err) {
+	// 		util.log(err);
+	// 	}
+	// }
+
+
+	loadUser (sender) {
+		try {
+			// if user does exists
+			if (isUser(sender)) {
+				// load user from file
+				var user = getUser(sender);
+				user = new User(user);
+				// log(JSON.stringify(user));
+			} else {
+				// else create user and save to file
+				var user = new User(sender);
+				setUser(user);
+			}
+
+			if (user)
+				return user;
+		} catch (err) {
+			util.log(err)
+		}
+	}
+
+	// getMsgUser (msg) {
+	// 	var author = msg.author;
+	// 	// if user does exists
+	// 	if (isUser(author)) {
+	// 		// load user from file
+	// 		var user = loadUser(author);
+	// 	} else {
+	// 		// else create user and save to file
+	// 		var user = new User(author);
+	// 		setUser(user);
+	// 	}
+
+	// 	return user;
+	// }
+
+	// getMsgUserNick (msg) {
+	// 	return msg.member.nickname;
+	// }
+
+}
+
+
+module.exports = User;

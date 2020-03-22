@@ -1,0 +1,16 @@
+{
+  "name": "fury",
+  "version": "1.0.0",
+  "description": "a bad-ass multi-purpose discord bot.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules bot.js"
+  },
+  "author": "luna",
+  "license": "ISC"
+}

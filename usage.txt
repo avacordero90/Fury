@@ -1,0 +1,6 @@
+Usage:
+
+	default prefix: f.
+
+	help : DMs you the help menu
+	start, interview : begins your interview

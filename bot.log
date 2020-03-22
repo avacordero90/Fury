@@ -1,0 +1,1385 @@
+2020-3-16 17:36:14 : logged in as Fury#0565.
+2020-3-16 17:36:20 : received command 'start' from user '247449907001163787'.
+2020-3-16 17:36:20 : TypeError: Cannot use 'in' operator to search for 'start' in interview
+2020-3-16 17:38:22 : logged in as Fury#0565.
+2020-3-16 17:39:48 : received command 'start' from user '247449907001163787'.
+2020-3-16 17:39:48 : TypeError: ("start" , "interview").contains is not a function
+2020-3-16 17:41:17 : logged in as Fury#0565.
+2020-3-16 17:41:25 : received command 'start' from user '247449907001163787'.
+2020-3-16 17:42:6 : received command 'start' from user '247449907001163787'.
+2020-3-16 17:42:38 : logged in as Fury#0565.
+2020-3-16 17:42:46 : received command 'start' from user '247449907001163787'.
+2020-3-16 17:42:56 : received command 'interview' from user '247449907001163787'.
+2020-3-16 17:47:54 : logged in as Fury#0565.
+2020-3-16 17:48:1 : received command 'start' from user '247449907001163787'.
+2020-3-16 17:50:44 : logged in as Fury#0565.
+2020-3-16 17:50:52 : received command 'start' from user '247449907001163787'.
+2020-3-17 11:40:8 : logged in as Fury#0565.
+2020-3-17 11:40:52 : received command 'start' from user '247449907001163787'.
+2020-3-17 12:39:33 : logged in as Fury#0565.
+2020-3-17 12:40:0 : received command 'help' from user '247449907001163787'.
+2020-3-17 12:40:0 : TypeError: util.getMsgUser is not a function
+2020-3-17 12:40:8 : received command 'help' from user '247449907001163787'.
+2020-3-17 12:48:5 : logged in as Fury#0565.
+2020-3-17 12:48:12 : received command 'help' from user '247449907001163787'.
+2020-3-17 12:48:12 : TypeError: util.getMsgUser is not a function
+2020-3-17 12:48:21 : received command 'start' from user '247449907001163787'.
+2020-3-17 12:48:21 : TypeError: util.getMsgUser is not a function
+2020-3-17 12:49:4 : logged in as Fury#0565.
+2020-3-17 12:49:10 : received command 'start' from user '247449907001163787'.
+2020-3-17 12:49:10 : TypeError: util.getMsgUserNickname is not a function
+2020-3-17 12:50:51 : logged in as Fury#0565.
+2020-3-17 12:50:58 : received command 'start' from user '247449907001163787'.
+2020-3-17 12:58:2 : logged in as Fury#0565.
+2020-3-17 12:58:11 : received command 'start' from user '247449907001163787'.
+2020-3-17 12:58:21 : received command 'help' from user '247449907001163787'.
+2020-3-17 13:16:28 : received command 'start' from user '247449907001163787'.
+2020-3-17 13:16:50 : received command 'help' from user '247449907001163787'.
+2020-3-17 14:1:32 : logged in as Fury#0565.
+2020-3-17 14:1:36 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:3:45 : logged in as Fury#0565.
+2020-3-17 14:3:51 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:6:11 : logged in as Fury#0565.
+2020-3-17 14:6:23 : logged in as Fury#0565.
+2020-3-17 14:6:29 : received command 'start' from user '247449907001163787'.
+2020-3-17 14:6:34 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:12:49 : logged in as Fury#0565.
+2020-3-17 14:12:56 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:12:56 : [object Promise]
+2020-3-17 14:15:34 : logged in as Fury#0565.
+2020-3-17 14:15:40 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:16:50 : logged in as Fury#0565.
+2020-3-17 14:16:56 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:17:42 : logged in as Fury#0565.
+2020-3-17 14:17:48 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:20:15 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:20:27 : logged in as Fury#0565.
+2020-3-17 14:20:32 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:23:25 : logged in as Fury#0565.
+2020-3-17 14:23:36 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:25:40 : logged in as Fury#0565.
+2020-3-17 14:25:47 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:27:40 : logged in as Fury#0565.
+2020-3-17 14:27:47 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:27:47 : ReferenceError: category is not defined
+2020-3-17 14:28:37 : logged in as Fury#0565.
+2020-3-17 14:28:44 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:31:25 : logged in as Fury#0565.
+2020-3-17 14:31:29 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:32:8 : logged in as Fury#0565.
+2020-3-17 14:32:14 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:54:28 : logged in as Fury#0565.
+2020-3-17 14:55:43 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:55:43 : TypeError: Promise resolver #<Promise> is not a function
+2020-3-17 14:55:43 : ReferenceError: create is not defined
+2020-3-17 14:57:4 : logged in as Fury#0565.
+2020-3-17 14:57:10 : received command 'setup' from user '247449907001163787'.
+2020-3-17 14:59:58 : logged in as Fury#0565.
+2020-3-17 15:0:6 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:3:25 : logged in as Fury#0565.
+2020-3-17 15:3:33 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:4:42 : logged in as Fury#0565.
+2020-3-17 15:4:47 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:7:1 : logged in as Fury#0565.
+2020-3-17 15:7:5 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:8:42 : logged in as Fury#0565.
+2020-3-17 15:11:3 : logged in as Fury#0565.
+2020-3-17 15:24:13 : logged in as Fury#0565.
+2020-3-17 15:26:54 : logged in as Fury#0565.
+2020-3-17 15:27:53 : logged in as Fury#0565.
+2020-3-17 15:30:26 : logged in as Fury#0565.
+2020-3-17 15:31:16 : logged in as Fury#0565.
+2020-3-17 15:32:16 : logged in as Fury#0565.
+2020-3-17 15:34:53 : logged in as Fury#0565.
+2020-3-17 15:34:58 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:35:12 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:42:26 : logged in as Fury#0565.
+2020-3-17 15:43:15 : logged in as Fury#0565.
+2020-3-17 15:44:2 : logged in as Fury#0565.
+2020-3-17 15:44:56 : logged in as Fury#0565.
+2020-3-17 15:45:1 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:45:20 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:51:57 : logged in as Fury#0565.
+2020-3-17 15:52:26 : logged in as Fury#0565.
+2020-3-17 15:52:30 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:53:31 : logged in as Fury#0565.
+2020-3-17 15:53:36 : received command 'setup' from user '247449907001163787'.
+2020-3-17 15:53:41 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:26:31 : logged in as Fury#0565.
+2020-3-18 19:27:23 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:27:29 : received command 'start' from user '247449907001163787'.
+2020-3-18 19:46:30 : logged in as Fury#0565.
+2020-3-18 19:46:46 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:47:5 : received command 'start' from user '247449907001163787'.
+2020-3-18 19:50:58 : logged in as Fury#0565.
+2020-3-18 19:51:4 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:51:10 : received command 'start' from user '247449907001163787'.
+2020-3-18 19:52:34 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:53:25 : received command 'start' from user '247449907001163787'.
+2020-3-18 19:57:37 : logged in as Fury#0565.
+2020-3-18 19:57:41 : received command 'start' from user '247449907001163787'.
+2020-3-18 19:58:23 : logged in as Fury#0565.
+2020-3-18 19:58:57 : logged in as Fury#0565.
+2020-3-18 19:59:2 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:59:21 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:59:26 : received command 'setup' from user '247449907001163787'.
+2020-3-18 19:59:59 : logged in as Fury#0565.
+2020-3-18 20:0:7 : received command 'setup' from user '247449907001163787'.
+2020-3-18 20:2:19 : logged in as Fury#0565.
+2020-3-18 20:2:35 : received command 'setup' from user '247449907001163787'.
+2020-3-18 20:2:46 : received command 'setup' from user '247449907001163787'.
+2020-3-18 20:3:3 : received command 'setup' from user '247449907001163787'.
+2020-3-18 20:3:10 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:3:15 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:6:8 : logged in as Fury#0565.
+2020-3-18 20:6:51 : received command 'setup' from user '247449907001163787'.
+2020-3-18 20:6:55 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:13:21 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:17:10 : logged in as Fury#0565.
+2020-3-18 20:17:17 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:18:34 : logged in as Fury#0565.
+2020-3-18 20:18:40 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:18:44 : received command 'setup' from user '247449907001163787'.
+2020-3-18 20:18:47 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:25:30 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:39:0 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:41:3 : logged in as Fury#0565.
+2020-3-18 20:41:10 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:48:1 : logged in as Fury#0565.
+2020-3-18 20:48:36 : logged in as Fury#0565.
+2020-3-18 20:48:41 : received command 'start' from user '247449907001163787'.
+2020-3-18 20:49:14 : logged in as Fury#0565.
+2020-3-18 20:49:25 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:4:33 : logged in as Fury#0565.
+2020-3-18 21:4:52 : received command 'setup' from user '247449907001163787'.
+2020-3-18 21:4:52 : TypeError: Cannot read property 'id' of undefined
+2020-3-18 21:6:2 : logged in as Fury#0565.
+2020-3-18 21:6:20 : received command 'setup' from user '247449907001163787'.
+2020-3-18 21:7:0 : logged in as Fury#0565.
+2020-3-18 21:7:20 : received command 'setup' from user '247449907001163787'.
+2020-3-18 21:7:26 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:14:30 : logged in as Fury#0565.
+2020-3-18 21:14:47 : received command 'setup' from user '247449907001163787'.
+2020-3-18 21:14:52 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:15:8 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:18:53 : logged in as Fury#0565.
+2020-3-18 21:19:8 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:20:50 : logged in as Fury#0565.
+2020-3-18 21:20:56 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:21:15 : logged in as Fury#0565.
+2020-3-18 21:21:17 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:21:27 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:22:32 : logged in as Fury#0565.
+2020-3-18 21:22:37 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:24:23 : logged in as Fury#0565.
+2020-3-18 21:24:28 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:24:46 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:25:48 : logged in as Fury#0565.
+2020-3-18 21:25:51 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:26:8 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:28:20 : logged in as Fury#0565.
+2020-3-18 21:28:23 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:28:35 : received command 'start' from user '247449907001163787'.
+2020-3-18 21:33:6 : logged in as Fury#0565.
+2020-3-18 21:33:21 : received command 'start' from user '247449907001163787'.
+2020-3-19 8:0:43 : logged in as Fury#0565.
+2020-3-19 8:0:56 : received command 'start' from user '247449907001163787'.
+2020-3-19 8:7:21 : logged in as Fury#0565.
+2020-3-19 8:7:31 : received command 'start' from user '247449907001163787'.
+2020-3-19 8:7:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 8:7:45 : received command 'start' from user '247449907001163787'.
+2020-3-19 8:39:5 : logged in as Fury#0565.
+2020-3-19 8:40:36 : received command 'setup' from user '247449907001163787'.
+2020-3-19 8:40:43 : received command 'start' from user '247449907001163787'.
+2020-3-19 8:51:51 : logged in as Fury#0565.
+2020-3-19 8:51:57 : received command 'start' from user '247449907001163787'.
+2020-3-19 8:53:21 : logged in as Fury#0565.
+2020-3-19 8:53:26 : received command 'start' from user '247449907001163787'.
+2020-3-19 8:55:23 : logged in as Fury#0565.
+2020-3-19 8:55:41 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:7:0 : logged in as Fury#0565.
+2020-3-19 9:7:17 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:8:34 : logged in as Fury#0565.
+2020-3-19 9:8:40 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:8:50 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:10:13 : logged in as Fury#0565.
+2020-3-19 9:10:14 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:10:30 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:17:9 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:17:34 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:17:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 9:17:40 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:17:56 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:20:56 : logged in as Fury#0565.
+2020-3-19 9:21:5 : received command 'setup' from user '247449907001163787'.
+2020-3-19 9:21:9 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:25:53 : logged in as Fury#0565.
+2020-3-19 9:26:7 : received command 'setup' from user '247449907001163787'.
+2020-3-19 9:26:14 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:26:14 : undefined
+2020-3-19 9:28:58 : logged in as Fury#0565.
+2020-3-19 9:29:7 : received command 'setup' from user '247449907001163787'.
+2020-3-19 9:29:18 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:29:18 : undefined
+2020-3-19 9:37:7 : logged in as Fury#0565.
+2020-3-19 9:37:13 : received command 'setup' from user '247449907001163787'.
+2020-3-19 9:37:13 : 690237454581629056
+2020-3-19 9:37:16 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:37:16 : -1
+2020-3-19 9:51:10 : received command 'setup' from user '247449907001163787'.
+2020-3-19 9:51:20 : logged in as Fury#0565.
+2020-3-19 9:51:25 : received command 'setup' from user '247449907001163787'.
+2020-3-19 9:51:25 : 690241030443761767
+2020-3-19 9:51:25 : 690241030443761767
+2020-3-19 9:51:25 : 690241030443761767
+2020-3-19 9:51:39 : received command 'start' from user '247449907001163787'.
+2020-3-19 9:51:39 : undefined
+2020-3-19 9:54:57 : logged in as Fury#0565.
+2020-3-19 9:55:24 : logged in as Fury#0565.
+2020-3-19 9:59:59 : logged in as Fury#0565.
+2020-3-19 10:0:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:0:6 : 690243214686683241
+2020-3-19 10:0:35 : logged in as Fury#0565.
+2020-3-19 10:0:45 : logged in as Fury#0565.
+2020-3-19 10:0:55 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:0:55 : 690243421340041359
+2020-3-19 10:0:55 : 690243421340041359
+2020-3-19 10:0:55 : 690243421340041359
+2020-3-19 10:1:3 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:1:3 : 0
+2020-3-19 10:2:28 : logged in as Fury#0565.
+2020-3-19 10:2:37 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:2:37 : 690243848085307406
+2020-3-19 10:2:37 : 690243848085307406
+2020-3-19 10:2:37 : 690243848085307406
+2020-3-19 10:4:39 : logged in as Fury#0565.
+2020-3-19 10:4:49 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:4:49 : 690244402295472158
+2020-3-19 10:4:49 : 690244402295472158
+2020-3-19 10:4:49 : 690244402295472158
+2020-3-19 10:6:38 : logged in as Fury#0565.
+2020-3-19 10:6:46 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:6:53 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:6:53 : 0
+2020-3-19 10:12:36 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:12:46 : logged in as Fury#0565.
+2020-3-19 10:12:49 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:12:57 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:12:57 : 0
+2020-3-19 10:15:33 : logged in as Fury#0565.
+2020-3-19 10:15:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:16:45 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:16:45 : 0
+2020-3-19 10:23:33 : logged in as Fury#0565.
+2020-3-19 10:23:44 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:23:48 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:23:57 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:23:57 : 0
+2020-3-19 10:45:53 : logged in as Fury#0565.
+2020-3-19 10:46:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:46:18 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:46:18 : -1
+2020-3-19 10:49:55 : logged in as Fury#0565.
+2020-3-19 10:50:1 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:50:1 : 690255775981109267
+2020-3-19 10:54:33 : logged in as Fury#0565.
+2020-3-19 10:54:42 : received command 'setup' from user '247449907001163787'.
+2020-3-19 10:54:42 : 690256954752237607
+2020-3-19 10:54:46 : received command 'start' from user '247449907001163787'.
+2020-3-19 10:54:46 : ReferenceError: user is not defined
+2020-3-19 11:4:50 : logged in as Fury#0565.
+2020-3-19 11:4:55 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:4:55 : 690259526259441666
+2020-3-19 11:4:58 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:4:58 : -1
+2020-3-19 11:18:14 : logged in as Fury#0565.
+2020-3-19 11:18:27 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:18:37 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:19:58 : logged in as Fury#0565.
+2020-3-19 11:20:3 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:20:6 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:20:6 : -1
+2020-3-19 11:22:51 : logged in as Fury#0565.
+2020-3-19 11:22:57 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:23:3 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:23:3 : -1
+2020-3-19 11:24:12 : logged in as Fury#0565.
+2020-3-19 11:24:19 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:24:27 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:24:27 : -1
+2020-3-19 11:28:58 : logged in as Fury#0565.
+2020-3-19 11:29:7 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:29:14 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:29:14 : -1
+2020-3-19 11:30:53 : logged in as Fury#0565.
+2020-3-19 11:30:57 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:30:57 : -1
+2020-3-19 11:34:30 : logged in as Fury#0565.
+2020-3-19 11:34:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:34:35 : -1
+2020-3-19 11:36:24 : logged in as Fury#0565.
+2020-3-19 11:36:29 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:37:20 : logged in as Fury#0565.
+2020-3-19 11:37:24 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:38:0 : logged in as Fury#0565.
+2020-3-19 11:38:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:38:6 : -1
+2020-3-19 11:39:55 : logged in as Fury#0565.
+2020-3-19 11:40:0 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:40:0 : 690268355050864760
+2020-3-19 11:40:11 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:40:11 : -1
+2020-3-19 11:43:35 : logged in as Fury#0565.
+2020-3-19 11:43:39 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:43:39 : 690269272622104678
+2020-3-19 11:43:41 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:43:41 : test (works)
+2020-3-19 11:43:41 : -1
+2020-3-19 11:45:25 : logged in as Fury#0565.
+2020-3-19 11:45:30 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:45:37 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:45:37 : test (works)
+2020-3-19 11:45:37 : -1
+2020-3-19 11:48:11 : logged in as Fury#0565.
+2020-3-19 11:48:16 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:48:30 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:48:30 : test (works)
+2020-3-19 11:48:30 : -1
+2020-3-19 11:55:13 : logged in as Fury#0565.
+2020-3-19 11:55:34 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:55:41 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:55:41 : -1
+2020-3-19 11:56:33 : logged in as Fury#0565.
+2020-3-19 11:56:37 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:56:40 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:56:40 : [object Object]
+2020-3-19 11:56:40 : -1
+2020-3-19 11:57:11 : logged in as Fury#0565.
+2020-3-19 11:57:19 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:57:21 : received command 'start' from user '247449907001163787'.
+2020-3-19 11:57:21 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 11:57:21 : -1
+2020-3-19 11:58:39 : logged in as Fury#0565.
+2020-3-19 11:58:43 : received command 'setup' from user '247449907001163787'.
+2020-3-19 11:59:35 : logged in as Fury#0565.
+2020-3-19 11:59:39 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:1:48 : received command 'start' from user '247449907001163787'.
+2020-3-19 12:1:48 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 12:1:48 : works here
+2020-3-19 12:1:48 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:1:48 : -1
+2020-3-19 12:3:41 : logged in as Fury#0565.
+2020-3-19 12:3:45 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:3:52 : received command 'start' from user '247449907001163787'.
+2020-3-19 12:3:52 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 12:3:52 : works here
+2020-3-19 12:3:52 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:3:52 : -1
+2020-3-19 12:6:2 : logged in as Fury#0565.
+2020-3-19 12:6:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:6:6 : 690274923851153408
+2020-3-19 12:6:35 : logged in as Fury#0565.
+2020-3-19 12:6:40 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:6:40 : 690275065362907267
+2020-3-19 12:6:40 : works here
+2020-3-19 12:6:40 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:6:40 : -1
+2020-3-19 12:7:30 : logged in as Fury#0565.
+2020-3-19 12:7:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:7:35 : 690275296951271664
+2020-3-19 12:7:35 : works here
+2020-3-19 12:7:35 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:7:35 : test: -1
+2020-3-19 12:15:58 : logged in as Fury#0565.
+2020-3-19 12:16:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:17:13 : logged in as Fury#0565.
+2020-3-19 12:17:18 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:19:27 : logged in as Fury#0565.
+2020-3-19 12:19:31 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:20:32 : logged in as Fury#0565.
+2020-3-19 12:20:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:22:8 : logged in as Fury#0565.
+2020-3-19 12:22:15 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:22:41 : logged in as Fury#0565.
+2020-3-19 12:22:45 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:23:14 : logged in as Fury#0565.
+2020-3-19 12:23:19 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:27:15 : logged in as Fury#0565.
+2020-3-19 12:27:20 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:27:51 : logged in as Fury#0565.
+2020-3-19 12:27:55 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:28:52 : logged in as Fury#0565.
+2020-3-19 12:28:57 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:28:57 : 690280673357201468
+2020-3-19 12:30:34 : logged in as Fury#0565.
+2020-3-19 12:30:40 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:30:40 : works here
+2020-3-19 12:32:2 : logged in as Fury#0565.
+2020-3-19 12:32:7 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:35:44 : logged in as Fury#0565.
+2020-3-19 12:35:49 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:36:8 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:38:4 : logged in as Fury#0565.
+2020-3-19 12:38:8 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:38:27 : logged in as Fury#0565.
+2020-3-19 12:38:30 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:44:15 : logged in as Fury#0565.
+2020-3-19 12:44:21 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:45:59 : logged in as Fury#0565.
+2020-3-19 12:46:3 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:46:45 : logged in as Fury#0565.
+2020-3-19 12:46:53 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:47:14 : logged in as Fury#0565.
+2020-3-19 12:47:19 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:47:19 : works here
+2020-3-19 12:47:19 : ReferenceError: isServer is not defined
+2020-3-19 12:47:19 : -1
+2020-3-19 12:49:33 : logged in as Fury#0565.
+2020-3-19 12:49:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:49:38 : works here
+2020-3-19 12:49:38 : ReferenceError: isServer is not defined
+2020-3-19 12:49:38 : -1
+2020-3-19 12:50:33 : logged in as Fury#0565.
+2020-3-19 12:50:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:50:38 : works here
+2020-3-19 12:50:38 : ReferenceError: isServerFile is not defined
+2020-3-19 12:50:38 : -1
+2020-3-19 12:52:1 : logged in as Fury#0565.
+2020-3-19 12:52:4 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:52:4 : works here
+2020-3-19 12:52:23 : logged in as Fury#0565.
+2020-3-19 12:52:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:52:28 : works here
+2020-3-19 12:52:53 : logged in as Fury#0565.
+2020-3-19 12:52:57 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:52:57 : works here
+2020-3-19 12:52:57 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:52:57 : -1
+2020-3-19 12:54:12 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:54:12 : works here
+2020-3-19 12:54:12 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:54:12 : works here
+2020-3-19 12:54:12 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:54:12 : -1
+2020-3-19 12:54:56 : logged in as Fury#0565.
+2020-3-19 12:55:3 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:55:3 : works here
+2020-3-19 12:55:3 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:55:3 : -1
+2020-3-19 12:56:48 : logged in as Fury#0565.
+2020-3-19 12:57:0 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:57:0 : file doesn't exist
+2020-3-19 12:57:0 : file exists
+2020-3-19 12:57:0 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 12:57:0 : -1
+2020-3-19 12:59:38 : logged in as Fury#0565.
+2020-3-19 12:59:42 : received command 'setup' from user '247449907001163787'.
+2020-3-19 12:59:42 : file doesn't exist
+2020-3-19 13:1:14 : logged in as Fury#0565.
+2020-3-19 13:1:22 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:1:22 : file doesn't exist
+2020-3-19 13:1:40 : logged in as Fury#0565.
+2020-3-19 13:1:44 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:1:44 : file doesn't exist
+2020-3-19 13:4:11 : logged in as Fury#0565.
+2020-3-19 13:4:15 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:4:29 : logged in as Fury#0565.
+2020-3-19 13:4:33 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:9:26 : logged in as Fury#0565.
+2020-3-19 13:9:31 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:11:22 : logged in as Fury#0565.
+2020-3-19 13:11:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:11:28 : no
+2020-3-19 13:11:52 : logged in as Fury#0565.
+2020-3-19 13:11:58 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:11:58 : no
+2020-3-19 13:13:17 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:13:17 : yes
+2020-3-19 13:17:25 : logged in as Fury#0565.
+2020-3-19 13:17:31 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:17:31 : no
+2020-3-19 13:17:40 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:17:40 : yes
+2020-3-19 13:17:40 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 13:18:51 : logged in as Fury#0565.
+2020-3-19 13:18:59 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:18:59 : no
+2020-3-19 13:19:1 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:19:1 : yes
+2020-3-19 13:19:1 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 13:19:38 : logged in as Fury#0565.
+2020-3-19 13:19:40 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:19:40 : no
+2020-3-19 13:19:44 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:19:44 : yes
+2020-3-19 13:19:44 : found file. loading.
+2020-3-19 13:19:44 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 13:20:36 : logged in as Fury#0565.
+2020-3-19 13:20:46 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:20:46 : no
+2020-3-19 13:20:57 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:20:57 : yes
+2020-3-19 13:20:57 : found file. loading.
+2020-3-19 13:20:57 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 13:22:25 : logged in as Fury#0565.
+2020-3-19 13:22:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:22:28 : no
+2020-3-19 13:22:29 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:22:29 : yes
+2020-3-19 13:22:29 : found file. loading.
+2020-3-19 13:23:23 : logged in as Fury#0565.
+2020-3-19 13:23:27 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:23:27 : no
+2020-3-19 13:23:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:30:45 : logged in as Fury#0565.
+2020-3-19 13:30:56 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:31:18 : logged in as Fury#0565.
+2020-3-19 13:31:24 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:32:37 : logged in as Fury#0565.
+2020-3-19 13:32:41 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:35:0 : logged in as Fury#0565.
+2020-3-19 13:35:10 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:35:10 : no
+2020-3-19 13:35:17 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:41:42 : logged in as Fury#0565.
+2020-3-19 13:42:18 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:46:24 : logged in as Fury#0565.
+2020-3-19 13:46:30 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:48:48 : logged in as Fury#0565.
+2020-3-19 13:48:53 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:48:53 : no
+2020-3-19 13:49:3 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:50:21 : logged in as Fury#0565.
+2020-3-19 13:50:26 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:50:52 : logged in as Fury#0565.
+2020-3-19 13:50:55 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:53:20 : logged in as Fury#0565.
+2020-3-19 13:53:25 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:53:37 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:59:17 : logged in as Fury#0565.
+2020-3-19 13:59:24 : received command 'setup' from user '247449907001163787'.
+2020-3-19 13:59:24 : isfile returns false
+2020-3-19 13:59:34 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:1:31 : logged in as Fury#0565.
+2020-3-19 14:1:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:1:35 : isfile returns false
+2020-3-19 14:1:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:2:8 : logged in as Fury#0565.
+2020-3-19 14:2:11 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:2:11 : isfile returns false
+2020-3-19 14:2:13 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:2:13 : found file. loading.
+2020-3-19 14:2:52 : logged in as Fury#0565.
+2020-3-19 14:2:54 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:2:54 : isfile returns false
+2020-3-19 14:2:59 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:2:59 : found file. loading.
+2020-3-19 14:2:59 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 14:2:59 : {"id":"662436704640172032","logCategory":"690304316598386738"}
+2020-3-19 14:3:21 : logged in as Fury#0565.
+2020-3-19 14:3:26 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:3:26 : isfile returns false
+2020-3-19 14:3:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:3:28 : found file. loading.
+2020-3-19 14:3:28 : {"id":"662436704640172032","logCategory":"690304450761457784"}
+2020-3-19 14:7:20 : logged in as Fury#0565.
+2020-3-19 14:7:26 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:7:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:7:35 : {"id":"662436704640172032","logCategory":"690305457872568371"}
+2020-3-19 14:7:44 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:9:26 : logged in as Fury#0565.
+2020-3-19 14:9:33 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:9:37 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:9:37 : {"id":"662436704640172032","logCategory":"690305991048298627"}
+2020-3-19 14:9:41 : received command 'sta5rt' from user '247449907001163787'.
+2020-3-19 14:9:43 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:17:15 : logged in as Fury#0565.
+2020-3-19 14:17:20 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:17:25 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:17:25 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 14:18:19 : logged in as Fury#0565.
+2020-3-19 14:18:24 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:19:28 : logged in as Fury#0565.
+2020-3-19 14:19:34 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:19:37 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:21:52 : logged in as Fury#0565.
+2020-3-19 14:21:57 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:22:1 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:22:1 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:23:23 : logged in as Fury#0565.
+2020-3-19 14:23:27 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:23:30 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:24:52 : logged in as Fury#0565.
+2020-3-19 14:24:56 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:24:59 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:26:0 : logged in as Fury#0565.
+2020-3-19 14:26:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:26:8 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:27:14 : logged in as Fury#0565.
+2020-3-19 14:27:19 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:27:23 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:27:23 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 14:30:9 : logged in as Fury#0565.
+2020-3-19 14:30:12 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:30:15 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:30:15 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:30:15 : -1
+2020-3-19 14:32:2 : logged in as Fury#0565.
+2020-3-19 14:32:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:32:8 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:32:8 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:33:11 : logged in as Fury#0565.
+2020-3-19 14:33:19 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:33:26 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:33:26 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:33:26 : -1
+2020-3-19 14:35:21 : logged in as Fury#0565.
+2020-3-19 14:35:29 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:35:32 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:35:32 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:36:17 : logged in as Fury#0565.
+2020-3-19 14:36:21 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:36:25 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:36:25 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:36:25 : -1
+2020-3-19 14:37:10 : logged in as Fury#0565.
+2020-3-19 14:37:15 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:37:15 : TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2020-3-19 14:37:15 : TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2020-3-19 14:37:19 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:37:19 : TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2020-3-19 14:39:1 : logged in as Fury#0565.
+2020-3-19 14:39:27 : logged in as Fury#0565.
+2020-3-19 14:39:34 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:39:34 : TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2020-3-19 14:39:34 : TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2020-3-19 14:39:38 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:39:38 : TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+2020-3-19 14:39:52 : logged in as Fury#0565.
+2020-3-19 14:39:57 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:40:0 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:40:0 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:40:0 : -1
+2020-3-19 14:56:11 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:56:18 : logged in as Fury#0565.
+2020-3-19 14:56:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 14:56:33 : received command 'start' from user '247449907001163787'.
+2020-3-19 14:56:33 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 14:56:33 : -1
+2020-3-19 14:59:51 : logged in as Fury#0565.
+2020-3-19 14:59:59 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:0:27 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:0:27 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:0:27 : -1
+2020-3-19 15:2:30 : logged in as Fury#0565.
+2020-3-19 15:2:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:2:37 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:2:37 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:2:37 : -1
+2020-3-19 15:3:23 : logged in as Fury#0565.
+2020-3-19 15:3:45 : logged in as Fury#0565.
+2020-3-19 15:3:50 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:3:53 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:3:53 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:3:53 : -1
+2020-3-19 15:4:59 : logged in as Fury#0565.
+2020-3-19 15:5:6 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:5:12 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:5:12 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:5:12 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 15:7:21 : logged in as Fury#0565.
+2020-3-19 15:7:25 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:7:28 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:7:28 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:7:28 : {"id":"662436704640172032","logCategory":"690320553294299226"}
+2020-3-19 15:8:17 : logged in as Fury#0565.
+2020-3-19 15:8:22 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:8:25 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:8:25 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:8:25 : {"id":"662436704640172032","logCategory":"690320792935858247"}
+2020-3-19 15:8:25 : {"id":"662436704640172032","logCategory":"690320792935858247"}
+2020-3-19 15:18:36 : logged in as Fury#0565.
+2020-3-19 15:18:46 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:18:52 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:18:52 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:18:52 : {"id":"662436704640172032","logCategory":"690323411494371439"}
+2020-3-19 15:18:52 : {"id":"662436704640172032","logCategory":"690323411494371439"}
+2020-3-19 15:38:15 : logged in as Fury#0565.
+2020-3-19 15:38:25 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:38:29 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:38:29 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:38:29 : {"id":"662436704640172032","logCategory":"690328357241749534"}
+2020-3-19 15:38:29 : {"id":"662436704640172032","logCategory":"690328357241749534"}
+2020-3-19 15:41:36 : logged in as Fury#0565.
+2020-3-19 15:41:46 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:41:54 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:41:54 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:41:54 : {"id":"662436704640172032","logCategory":"690329197964689438"}
+2020-3-19 15:41:54 : {"id":"662436704640172032","logCategory":"690329197964689438"}
+2020-3-19 15:46:33 : logged in as Fury#0565.
+2020-3-19 15:46:47 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:46:50 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:46:50 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:46:50 : {"id":"662436704640172032","logCategory":"690330460848783781"}
+2020-3-19 15:46:50 : undefined
+2020-3-19 15:46:50 : {"id":"662436704640172032","logCategory":"690330460848783781"}
+2020-3-19 15:47:42 : logged in as Fury#0565.
+2020-3-19 15:47:48 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:47:51 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:47:51 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:47:51 : {"id":"662436704640172032","logCategory":"690330715229126828"}
+2020-3-19 15:50:50 : logged in as Fury#0565.
+2020-3-19 15:51:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:51:41 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:51:41 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:52:14 : logged in as Fury#0565.
+2020-3-19 15:52:22 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:52:24 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:52:24 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:52:24 : undefined
+2020-3-19 15:52:24 : {"id":"662436704640172032","logCategory":"690331864619417651"}
+2020-3-19 15:53:7 : logged in as Fury#0565.
+2020-3-19 15:53:15 : received command 'setup' from user '247449907001163787'.
+2020-3-19 15:53:17 : received command 'start' from user '247449907001163787'.
+2020-3-19 15:53:18 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 15:53:18 : {"id":"662436704640172032","logCategory":"690332087110336730"}
+2020-3-19 15:53:18 : undefined
+2020-3-19 15:53:18 : {"id":"662436704640172032","logCategory":"690332087110336730"}
+2020-3-19 16:1:32 : logged in as Fury#0565.
+2020-3-19 16:1:38 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:1:42 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:1:42 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:1:42 : {"id":"662436704640172032","logCategory":"690334198166454343"}
+2020-3-19 16:2:57 : logged in as Fury#0565.
+2020-3-19 16:3:2 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:3:6 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:3:6 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:3:6 : {"id":"662436704640172032","logCategory":"690334551519789199"}
+2020-3-19 16:3:6 : undefined
+2020-3-19 16:3:6 : undefined
+2020-3-19 16:3:56 : logged in as Fury#0565.
+2020-3-19 16:4:0 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:4:4 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:4:4 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:4:4 : undefined
+2020-3-19 16:4:4 : undefined
+2020-3-19 16:4:21 : logged in as Fury#0565.
+2020-3-19 16:4:30 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:4:34 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:4:34 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:4:34 : undefined
+2020-3-19 16:4:34 : undefined
+2020-3-19 16:5:7 : logged in as Fury#0565.
+2020-3-19 16:5:11 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:5:15 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:5:15 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:5:15 : {"id":"662436704640172032","logCategory":"690335091947602201"}
+2020-3-19 16:5:15 : undefined
+2020-3-19 16:5:15 : undefined
+2020-3-19 16:11:24 : logged in as Fury#0565.
+2020-3-19 16:11:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:11:38 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:11:38 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:11:38 : {"id":"662436704640172032","logCategory":"690336703315312760"}
+2020-3-19 16:11:38 : {"id":"662436704640172032","logCategory":"690336703315312760"}
+2020-3-19 16:11:38 : undefined
+2020-3-19 16:11:38 : undefined
+2020-3-19 16:12:28 : logged in as Fury#0565.
+2020-3-19 16:12:32 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:12:35 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:12:35 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:12:35 : {"id":"662436704640172032","logCategory":"690336939416879384"}
+2020-3-19 16:13:3 : logged in as Fury#0565.
+2020-3-19 16:13:11 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:13:14 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:13:14 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:13:14 : {"id":"662436704640172032","logCategory":"690337105699930262"}
+2020-3-19 16:13:14 : undefined
+2020-3-19 16:13:14 : undefined
+2020-3-19 16:15:18 : logged in as Fury#0565.
+2020-3-19 16:15:24 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:15:28 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:15:28 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:15:28 : {"id":"662436704640172032","logCategory":"690337661571039413"}
+2020-3-19 16:15:28 : -1
+2020-3-19 16:15:28 : -1
+2020-3-19 16:15:47 : logged in as Fury#0565.
+2020-3-19 16:15:54 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:15:58 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:15:58 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:15:58 : {"id":"662436704640172032","logCategory":"690337790189502986"}
+2020-3-19 16:15:58 : -1
+2020-3-19 16:15:58 : -1
+2020-3-19 16:17:18 : logged in as Fury#0565.
+2020-3-19 16:17:36 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:17:36 : {"id":"662436704640172032"}
+2020-3-19 16:17:39 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:17:39 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:17:39 : {"id":"662436704640172032"}
+2020-3-19 16:17:39 : -1
+2020-3-19 16:17:39 : -1
+2020-3-19 16:19:24 : logged in as Fury#0565.
+2020-3-19 16:19:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:19:28 : {"id":"662436704640172032"}
+2020-3-19 16:19:31 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:19:31 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:19:31 : {"id":"662436704640172032"}
+2020-3-19 16:19:31 : -1
+2020-3-19 16:19:31 : -1
+2020-3-19 16:20:21 : logged in as Fury#0565.
+2020-3-19 16:20:26 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:20:26 : {"id":"662436704640172032"}
+2020-3-19 16:21:25 : logged in as Fury#0565.
+2020-3-19 16:21:35 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:22:3 : logged in as Fury#0565.
+2020-3-19 16:22:10 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:22:10 : {"id":"662436704640172032","logCategory":"690339363716202656"}
+2020-3-19 16:22:10 : {"id":"662436704640172032","logCategory":"690339363716202656"}
+2020-3-19 16:22:20 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:22:20 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:22:20 : {"id":"662436704640172032","logCategory":"690339363716202656"}
+2020-3-19 16:22:20 : -1
+2020-3-19 16:22:20 : -1
+2020-3-19 16:23:18 : logged in as Fury#0565.
+2020-3-19 16:23:27 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:23:31 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:23:31 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:23:31 : {"id":"662436704640172032","logCategory":"690339686446792943"}
+2020-3-19 16:23:31 : -1
+2020-3-19 16:23:31 : -1
+2020-3-19 16:28:47 : logged in as Fury#0565.
+2020-3-19 16:28:52 : received command 'setup' from user '247449907001163787'.
+2020-3-19 16:28:57 : received command 'start' from user '247449907001163787'.
+2020-3-19 16:28:57 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 16:28:57 : -1
+2020-3-19 18:37:27 : logged in as Fury#0565.
+2020-3-19 18:37:37 : logged in as Fury#0565.
+2020-3-19 18:38:50 : received command 'setup' from user '247449907001163787'.
+2020-3-19 18:39:4 : received command 'start' from user '247449907001163787'.
+2020-3-19 18:39:4 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 18:39:4 : {"id":"662436704640172032","logCategory":"690373758619484220"}
+2020-3-19 18:39:4 : -1
+2020-3-19 18:39:4 : {"id":"662436704640172032","logCategory":"690373758619484220"}
+2020-3-19 18:40:31 : logged in as Fury#0565.
+2020-3-19 18:40:41 : received command 'setup' from user '247449907001163787'.
+2020-3-19 18:40:44 : received command 'start' from user '247449907001163787'.
+2020-3-19 18:40:44 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 18:40:44 : -1
+2020-3-19 18:40:44 : -1
+2020-3-19 18:45:37 : logged in as Fury#0565.
+2020-3-19 18:45:43 : received command 'test' from user '247449907001163787'.
+2020-3-19 18:45:48 : received command 'setup' from user '247449907001163787'.
+2020-3-19 18:45:53 : received command 'start' from user '247449907001163787'.
+2020-3-19 18:45:53 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 18:45:53 : -1
+2020-3-19 18:45:53 : -1
+2020-3-19 18:47:37 : logged in as Fury#0565.
+2020-3-19 18:47:42 : received command 'setup' from user '247449907001163787'.
+2020-3-19 18:47:42 : undefined
+2020-3-19 18:47:42 : undefined
+2020-3-19 18:47:42 : -1
+2020-3-19 18:49:18 : logged in as Fury#0565.
+2020-3-19 18:49:28 : received command 'setup' from user '247449907001163787'.
+2020-3-19 18:49:28 : before:undefined
+2020-3-19 18:49:28 : after:undefined
+2020-3-19 18:49:28 : before:undefined
+2020-3-19 18:49:28 : after:undefined
+2020-3-19 18:49:28 : before:-1
+2020-3-19 18:49:28 : after:-1
+2020-3-19 18:49:55 : logged in as Fury#0565.
+2020-3-19 18:50:3 : received command 'setup' from user '247449907001163787'.
+2020-3-19 18:50:3 : before:undefined
+2020-3-19 18:50:3 : after:-1
+2020-3-19 18:50:3 : before:undefined
+2020-3-19 18:50:3 : after:-1
+2020-3-19 18:50:3 : before:-1
+2020-3-19 18:50:3 : after:undefined
+2020-3-19 18:51:23 : logged in as Fury#0565.
+2020-3-19 19:1:54 : logged in as Fury#0565.
+2020-3-19 19:2:3 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:2:3 : before:undefined
+2020-3-19 19:2:3 : before:undefined
+2020-3-19 19:2:3 : before:-1
+2020-3-19 19:2:3 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:2:3 : before:690379602316623888
+2020-3-19 19:2:3 : after:690379602316623888
+2020-3-19 19:2:3 : before:690379602316623888
+2020-3-19 19:2:3 : after:690379602316623888
+2020-3-19 19:2:3 : {"id":"662436704640172032","logCategory":"690379602316623888"}
+2020-3-19 19:3:6 : logged in as Fury#0565.
+2020-3-19 19:3:12 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:3:12 : before:undefined
+2020-3-19 19:3:12 : before:undefined
+2020-3-19 19:3:12 : before:undefined
+2020-3-19 19:3:12 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:3:12 : before:undefined
+2020-3-19 19:3:12 : after:690379889303486474
+2020-3-19 19:3:12 : before:undefined
+2020-3-19 19:3:12 : after:690379889303486474
+2020-3-19 19:3:12 : {"id":"662436704640172032","logCategory":"690379889303486474"}
+2020-3-19 19:4:56 : logged in as Fury#0565.
+2020-3-19 19:5:2 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:5:2 : before:undefined
+2020-3-19 19:5:2 : before:undefined
+2020-3-19 19:5:2 : before:undefined
+2020-3-19 19:5:2 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:5:3 : before:undefined
+2020-3-19 19:5:3 : after:690380353889632306
+2020-3-19 19:5:3 : before:undefined
+2020-3-19 19:5:3 : after:690380353889632306
+2020-3-19 19:5:3 : {"id":"662436704640172032","logCategory":"690380353889632306"}
+2020-3-19 19:5:12 : logged in as Fury#0565.
+2020-3-19 19:5:20 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:5:20 : before:undefined
+2020-3-19 19:5:20 : before:undefined
+2020-3-19 19:5:20 : before:undefined
+2020-3-19 19:5:22 : before:undefined
+2020-3-19 19:5:22 : before:undefined
+2020-3-19 19:5:44 : logged in as Fury#0565.
+2020-3-19 19:6:56 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:6:56 : before:undefined
+2020-3-19 19:6:56 : before:undefined
+2020-3-19 19:6:56 : before:undefined
+2020-3-19 19:6:56 : before:undefined
+2020-3-19 19:6:56 : before:undefined
+2020-3-19 19:7:27 : logged in as Fury#0565.
+2020-3-19 19:7:34 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:7:40 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:7:40 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 19:7:40 : -1
+2020-3-19 19:8:41 : logged in as Fury#0565.
+2020-3-19 19:8:51 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:8:51 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:11:18 : logged in as Fury#0565.
+2020-3-19 19:11:24 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:11:24 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:11:33 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:11:33 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 19:11:33 : -1
+2020-3-19 19:12:9 : logged in as Fury#0565.
+2020-3-19 19:12:15 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:12:15 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:12:20 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:12:20 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 19:12:20 : -1
+2020-3-19 19:12:47 : logged in as Fury#0565.
+2020-3-19 19:12:51 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:12:51 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:12:54 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:12:54 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 19:12:54 : -1
+2020-3-19 19:13:28 : logged in as Fury#0565.
+2020-3-19 19:13:34 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:13:34 : {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:13:39 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:13:39 : {"id":"247449907001163787","tag":"luna#4734","interviews":[]}
+2020-3-19 19:13:39 : -1
+2020-3-19 19:14:16 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:15:14 : logged in as Fury#0565.
+2020-3-19 19:15:19 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:15:19 : new: {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:15:19 : pre-existing: {"id":"662436704640172032","logCategory":"690382939690893342"}
+2020-3-19 19:16:13 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:16:13 : pre-existing: {"id":"662436704640172032","logCategory":"690382939690893342"}
+2020-3-19 19:16:13 : -1
+2020-3-19 19:17:36 : logged in as Fury#0565.
+2020-3-19 19:17:41 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:17:41 : new: {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:17:41 : pre-existing: {"id":"662436704640172032","logCategory":"690383535093186632"}
+2020-3-19 19:17:44 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:17:44 : pre-existing: {"id":"662436704640172032","logCategory":"690383535093186632"}
+2020-3-19 19:17:44 : 690383535093186632
+2020-3-19 19:18:48 : logged in as Fury#0565.
+2020-3-19 19:18:52 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:18:52 : new: {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:18:52 : pre-existing: {"id":"662436704640172032","logCategory":"690383833022857317"}
+2020-3-19 19:18:59 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:20:21 : logged in as Fury#0565.
+2020-3-19 19:20:25 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:20:25 : new: {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:20:25 : pre-existing: {"id":"662436704640172032","logCategory":"690384224670187590"}
+2020-3-19 19:20:29 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:20:29 : pre-existing: {"id":"662436704640172032","logCategory":"690384224670187590"}
+2020-3-19 19:20:29 : 690384224670187590
+2020-3-19 19:21:6 : logged in as Fury#0565.
+2020-3-19 19:21:11 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:21:11 : new: {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:21:11 : pre-existing: {"id":"662436704640172032","logCategory":"690384416920567829"}
+2020-3-19 19:21:17 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:21:17 : pre-existing: {"id":"662436704640172032","logCategory":"690384416920567829"}
+2020-3-19 19:21:17 : 690384416920567829
+2020-3-19 19:21:57 : logged in as Fury#0565.
+2020-3-19 19:22:1 : received command 'setup' from user '247449907001163787'.
+2020-3-19 19:22:1 : new: {"id":"662436704640172032","logCategory":-1}
+2020-3-19 19:22:1 : pre-existing: {"id":"662436704640172032","logCategory":"690384626266669076"}
+2020-3-19 19:22:4 : received command 'start' from user '247449907001163787'.
+2020-3-19 19:22:4 : pre-existing: {"id":"662436704640172032","logCategory":"690384626266669076"}
+2020-3-19 19:22:4 : 690384626266669076
+2020-3-21 11:49:5 : received command 'setup' from user '247449907001163787'.
+2020-3-21 11:49:5 : new: {"id":"662436704640172032","logCategory":-1}
+2020-3-21 11:49:6 : pre-existing: {"id":"662436704640172032","logCategory":"690995418657587243"}
+2020-3-21 11:49:12 : received command 'start' from user '247449907001163787'.
+2020-3-21 11:49:12 : pre-existing: {"id":"662436704640172032","logCategory":"690995418657587243"}
+2020-3-21 11:49:12 : 690995418657587243
+2020-3-21 12:0:41 : logged in as Fury#0565.
+2020-3-21 12:0:51 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:15:44 : logged in as Fury#0565.
+2020-3-21 12:15:57 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:15:57 : ReferenceError: isServerFile is not defined
+2020-3-21 12:17:16 : logged in as Fury#0565.
+2020-3-21 12:17:23 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:17:23 : TypeError: this.isServerFile is not a function
+2020-3-21 12:17:29 : received command 'start' from user '247449907001163787'.
+2020-3-21 12:17:29 : TypeError: this.isServerFile is not a function
+2020-3-21 12:18:1 : logged in as Fury#0565.
+2020-3-21 12:18:7 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:19:45 : logged in as Fury#0565.
+2020-3-21 12:19:50 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:21:11 : logged in as Fury#0565.
+2020-3-21 12:21:17 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:26:23 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:26:35 : received command 'start' from user '247449907001163787'.
+2020-3-21 12:53:40 : logged in as Fury#0565.
+2020-3-21 12:53:53 : received command 'start' from user '247449907001163787'.
+2020-3-21 12:54:0 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:55:20 : logged in as Fury#0565.
+2020-3-21 12:55:25 : received command 'setup' from user '247449907001163787'.
+2020-3-21 12:57:21 : logged in as Fury#0565.
+2020-3-21 12:57:27 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:18:2 : logged in as Fury#0565.
+2020-3-21 13:18:9 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:18:19 : received command 'start' from user '247449907001163787'.
+2020-3-21 13:23:20 : logged in as Fury#0565.
+2020-3-21 13:25:2 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:25:9 : received command 'start' from user '247449907001163787'.
+2020-3-21 13:26:20 : logged in as Fury#0565.
+2020-3-21 13:26:24 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:26:28 : received command 'start' from user '247449907001163787'.
+2020-3-21 13:26:28 : something hinky...
+2020-3-21 13:27:53 : logged in as Fury#0565.
+2020-3-21 13:27:57 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:28:0 : received command 'start' from user '247449907001163787'.
+2020-3-21 13:28:0 : hinkiness
+2020-3-21 13:33:21 : logged in as Fury#0565.
+2020-3-21 13:34:19 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:34:31 : received command 'start' from user '247449907001163787'.
+2020-3-21 13:34:31 : hinkiness
+2020-3-21 13:35:10 : logged in as Fury#0565.
+2020-3-21 13:35:15 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:35:22 : received command 'start' from user '247449907001163787'.
+2020-3-21 13:36:0 : logged in as Fury#0565.
+2020-3-21 13:36:6 : received command 'setup' from user '247449907001163787'.
+2020-3-21 13:36:13 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:6:24 : logged in as Fury#0565.
+2020-3-21 14:9:1 : logged in as Fury#0565.
+2020-3-21 14:9:10 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:9:23 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:12:39 : logged in as Fury#0565.
+2020-3-21 14:12:44 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:12:50 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:16:30 : logged in as Fury#0565.
+2020-3-21 14:16:39 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:16:39 : undefined
+2020-3-21 14:16:39 : undefined
+2020-3-21 14:16:45 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:16:45 : undefined
+2020-3-21 14:16:45 : undefined
+2020-3-21 14:18:26 : logged in as Fury#0565.
+2020-3-21 14:18:32 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:18:32 : TypeError: guild.channels.get is not a function
+2020-3-21 14:18:36 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:18:36 : TypeError: guild.channels.get is not a function
+2020-3-21 14:19:8 : logged in as Fury#0565.
+2020-3-21 14:19:18 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:19:18 : undefined
+2020-3-21 14:19:18 : undefined
+2020-3-21 14:20:11 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:20:11 : undefined
+2020-3-21 14:20:11 : undefined
+2020-3-21 14:21:9 : logged in as Fury#0565.
+2020-3-21 14:21:18 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:21:18 : ReferenceError: isServerFile is not defined
+2020-3-21 14:21:52 : logged in as Fury#0565.
+2020-3-21 14:21:56 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:22:3 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:23:37 : logged in as Fury#0565.
+2020-3-21 14:23:41 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:23:41 : ReferenceError: isServerFile is not defined
+2020-3-21 14:23:58 : logged in as Fury#0565.
+2020-3-21 14:24:2 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:24:2 : undefined
+2020-3-21 14:24:20 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:24:20 : undefined
+2020-3-21 14:25:17 : logged in as Fury#0565.
+2020-3-21 14:25:25 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:25:25 : 662436704640172032
+2020-3-21 14:31:16 : logged in as Fury#0565.
+2020-3-21 14:31:27 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:31:27 : 662436704640172032
+2020-3-21 14:31:50 : logged in as Fury#0565.
+2020-3-21 14:31:57 : received command 'setup' from user '247449907001163787'.
+2020-3-21 14:32:32 : received command 'start' from user '247449907001163787'.
+2020-3-21 14:44:45 : logged in as Fury#0565.
+2020-3-21 14:44:51 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:9:39 : logged in as Fury#0565.
+2020-3-21 15:9:45 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:11:30 : logged in as Fury#0565.
+2020-3-21 15:11:36 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:14:16 : logged in as Fury#0565.
+2020-3-21 15:14:21 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:14:31 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:14:31 : -1
+2020-3-21 15:15:24 : logged in as Fury#0565.
+2020-3-21 15:15:34 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:15:41 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:15:41 : -1
+2020-3-21 15:21:58 : logged in as Fury#0565.
+2020-3-21 15:22:7 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:22:15 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:22:15 : -1
+2020-3-21 15:25:32 : logged in as Fury#0565.
+2020-3-21 15:26:29 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:26:38 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:26:38 : -1
+2020-3-21 15:29:4 : logged in as Fury#0565.
+2020-3-21 15:29:9 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:29:13 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:29:13 : -1
+2020-3-21 15:31:14 : logged in as Fury#0565.
+2020-3-21 15:31:18 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:31:23 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:31:23 : -1
+2020-3-21 15:32:37 : logged in as Fury#0565.
+2020-3-21 15:32:43 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:32:43 : false
+2020-3-21 15:32:54 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:32:54 : false
+2020-3-21 15:32:54 : -1
+2020-3-21 15:36:41 : logged in as Fury#0565.
+2020-3-21 15:36:46 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:36:46 : false3
+2020-3-21 15:36:46 : false2
+2020-3-21 15:36:46 : false
+2020-3-21 15:36:51 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:36:51 : false
+2020-3-21 15:36:51 : -1
+2020-3-21 15:37:44 : logged in as Fury#0565.
+2020-3-21 15:37:48 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:37:48 : false3
+2020-3-21 15:37:48 : false2
+2020-3-21 15:37:48 : false
+2020-3-21 15:37:53 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:37:53 : false
+2020-3-21 15:37:53 : -1
+2020-3-21 15:43:6 : logged in as Fury#0565.
+2020-3-21 15:43:16 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:43:16 : false3
+2020-3-21 15:43:16 : false2
+2020-3-21 15:43:16 : false
+2020-3-21 15:43:28 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:43:28 : false
+2020-3-21 15:43:28 : -1
+2020-3-21 15:44:16 : logged in as Fury#0565.
+2020-3-21 15:44:20 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:44:20 : false3
+2020-3-21 15:44:20 : false2
+2020-3-21 15:44:20 : false
+2020-3-21 15:44:43 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:44:43 : false
+2020-3-21 15:44:43 : -1
+2020-3-21 15:48:14 : logged in as Fury#0565.
+2020-3-21 15:48:19 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:48:19 : false3
+2020-3-21 15:48:19 : false2
+2020-3-21 15:48:19 : false
+2020-3-21 15:48:19 : 691055620794613850
+2020-3-21 15:48:58 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:48:58 : false
+2020-3-21 15:48:58 : -1
+2020-3-21 15:51:31 : logged in as Fury#0565.
+2020-3-21 15:51:36 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:51:36 : false3
+2020-3-21 15:51:36 : false2
+2020-3-21 15:51:36 : false
+2020-3-21 15:51:36 : 691056449035567155
+2020-3-21 15:51:45 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:51:45 : false
+2020-3-21 15:51:45 : -1
+2020-3-21 15:53:43 : logged in as Fury#0565.
+2020-3-21 15:53:54 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:53:54 : false3
+2020-3-21 15:53:54 : false2
+2020-3-21 15:53:54 : false
+2020-3-21 15:53:54 : 691057028889837668
+2020-3-21 15:53:59 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:53:59 : false
+2020-3-21 15:53:59 : -1
+2020-3-21 15:55:6 : logged in as Fury#0565.
+2020-3-21 15:55:14 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:55:14 : false3
+2020-3-21 15:55:14 : false2
+2020-3-21 15:55:14 : false1
+2020-3-21 15:55:14 : 691057363599228938
+2020-3-21 15:55:16 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:55:16 : false1
+2020-3-21 15:55:16 : -1
+2020-3-21 15:56:24 : logged in as Fury#0565.
+2020-3-21 15:58:37 : logged in as Fury#0565.
+2020-3-21 15:58:42 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:59:47 : logged in as Fury#0565.
+2020-3-21 15:59:51 : received command 'setup' from user '247449907001163787'.
+2020-3-21 15:59:51 : false2
+2020-3-21 15:59:51 : false2
+2020-3-21 15:59:51 : false1
+2020-3-21 15:59:51 : 691058526432395334
+2020-3-21 15:59:58 : received command 'start' from user '247449907001163787'.
+2020-3-21 15:59:58 : false1
+2020-3-21 15:59:58 : -1
+2020-3-21 16:0:58 : logged in as Fury#0565.
+2020-3-21 16:1:19 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:1:19 : false1
+2020-3-21 16:1:19 : 691058892523700255
+2020-3-21 16:1:26 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:1:26 : false1
+2020-3-21 16:1:26 : -1
+2020-3-21 16:2:30 : logged in as Fury#0565.
+2020-3-21 16:2:35 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:4:47 : logged in as Fury#0565.
+2020-3-21 16:4:52 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:7:26 : logged in as Fury#0565.
+2020-3-21 16:7:31 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:7:31 : false1
+2020-3-21 16:7:31 : false1
+2020-3-21 16:8:42 : logged in as Fury#0565.
+2020-3-21 16:8:46 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:8:46 : false1
+2020-3-21 16:8:46 : false1
+2020-3-21 16:9:16 : logged in as Fury#0565.
+2020-3-21 16:9:23 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:9:23 : false1
+2020-3-21 16:9:23 : false1
+2020-3-21 16:12:3 : logged in as Fury#0565.
+2020-3-21 16:12:7 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:13:58 : logged in as Fury#0565.
+2020-3-21 16:14:7 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:15:33 : logged in as Fury#0565.
+2020-3-21 16:15:39 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:15:39 : false1
+2020-3-21 16:15:39 : false1
+2020-3-21 16:38:2 : logged in as Fury#0565.
+2020-3-21 16:38:14 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:38:34 : logged in as Fury#0565.
+2020-3-21 16:38:39 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:39:36 : logged in as Fury#0565.
+2020-3-21 16:39:39 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:39:47 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:39:47 : 662436704640172032
+2020-3-21 16:40:10 : logged in as Fury#0565.
+2020-3-21 16:40:14 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:40:20 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:40:20 : 662436704640172032
+2020-3-21 16:40:20 : -1
+2020-3-21 16:42:38 : logged in as Fury#0565.
+2020-3-21 16:42:45 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:42:52 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:42:52 : 662436704640172032
+2020-3-21 16:42:52 : -1
+2020-3-21 16:43:51 : logged in as Fury#0565.
+2020-3-21 16:43:55 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:44:1 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:44:1 : 662436704640172032
+2020-3-21 16:45:2 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:45:36 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:45:36 : 662436704640172032
+2020-3-21 16:46:49 : logged in as Fury#0565.
+2020-3-21 16:46:53 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:46:55 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:46:55 : -1
+2020-3-21 16:49:24 : logged in as Fury#0565.
+2020-3-21 16:49:32 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:49:32 : Error: ENOENT: no such file or directory, open 'servers/undefined.json'
+2020-3-21 16:49:32 : Server not found.
+2020-3-21 16:57:29 : logged in as Fury#0565.
+2020-3-21 16:57:34 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:57:43 : received command 'start' from user '247449907001163787'.
+2020-3-21 16:57:43 : -1
+2020-3-21 16:58:42 : logged in as Fury#0565.
+2020-3-21 16:58:46 : received command 'setup' from user '247449907001163787'.
+2020-3-21 16:58:46 : Error: ENOENT: no such file or directory, open 'servers/undefined.json'
+2020-3-21 16:58:46 : Server not found.
+2020-3-21 17:1:37 : logged in as Fury#0565.
+2020-3-21 17:1:43 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:1:43 : 662436704640172032.jsonexists
+2020-3-21 17:1:43 : Error: ENOENT: no such file or directory, open 'servers/undefined.json'
+2020-3-21 17:1:43 : Server not found.
+2020-3-21 17:6:3 : logged in as Fury#0565.
+2020-3-21 17:6:8 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:7:54 : logged in as Fury#0565.
+2020-3-21 17:7:59 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:7:59 : 662436704640172032.jsonexists
+2020-3-21 17:8:7 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:8:7 : 662436704640172032.jsonexists
+2020-3-21 17:8:7 : 691075671706960002
+2020-3-21 17:8:7 : 662436704640172032.jsonexists
+2020-3-21 17:8:7 : 691075671706960002
+2020-3-21 17:10:49 : logged in as Fury#0565.
+2020-3-21 17:10:55 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:10:58 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:10:58 : 691076409485033523
+2020-3-21 17:10:58 : 691076409485033523
+2020-3-21 17:11:26 : logged in as Fury#0565.
+2020-3-21 17:11:32 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:11:34 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:11:34 : 691076563097092259
+2020-3-21 17:12:24 : logged in as Fury#0565.
+2020-3-21 17:12:30 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:12:32 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:12:32 : 691076808711340082
+2020-3-21 17:13:11 : logged in as Fury#0565.
+2020-3-21 17:13:15 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:13:17 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:13:17 : 691076994812608542
+2020-3-21 17:13:53 : logged in as Fury#0565.
+2020-3-21 17:14:12 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:14:14 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:14:14 : 691077234294915103
+2020-3-21 17:14:59 : logged in as Fury#0565.
+2020-3-21 17:15:4 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:15:6 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:15:6 : 691077452268699740
+2020-3-21 17:16:32 : logged in as Fury#0565.
+2020-3-21 17:16:45 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:16:48 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:16:48 : 691077875503333386
+2020-3-21 17:17:49 : logged in as Fury#0565.
+2020-3-21 17:17:52 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:17:55 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:20:0 : logged in as Fury#0565.
+2020-3-21 17:20:7 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:20:10 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:20:10 : 691078725802000467
+2020-3-21 17:20:34 : logged in as Fury#0565.
+2020-3-21 17:20:37 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:20:40 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:20:40 : 691078851727458396
+2020-3-21 17:21:7 : logged in as Fury#0565.
+2020-3-21 17:21:14 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:21:16 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:21:16 : 691079003502542859
+2020-3-21 17:33:50 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:34:3 : logged in as Fury#0565.
+2020-3-21 17:34:13 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:34:18 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:35:22 : logged in as Fury#0565.
+2020-3-21 17:35:25 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:35:28 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:35:28 : 691082576277929984
+2020-3-21 17:43:45 : logged in as Fury#0565.
+2020-3-21 17:43:59 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:44:4 : received command 'start' from user '247449907001163787'.
+2020-3-21 17:47:37 : logged in as Fury#0565.
+2020-3-21 17:47:48 : received command 'setup' from user '247449907001163787'.
+2020-3-21 17:47:50 : received command 'start' from user '247449907001163787'.
+2020-3-21 18:34:12 : logged in as Fury#0565.
+2020-3-21 18:34:25 : received command 'setup' from user '247449907001163787'.
+2020-3-21 18:34:29 : received command 'start' from user '247449907001163787'.
