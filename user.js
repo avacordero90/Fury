@@ -4,17 +4,33 @@ const fs = require('fs');
 
 class User {
 	constructor (user) {
-		this.id = user.id;
-		this.tag = user.tag;
-		this.name = user.username;
-		this.avatar = user.avatarURL;
-		
-		if (this.interviews != null)
-			this.interviews = user.interviews;
-		else
-			this.interviews = {};
 
-		this.setUser();
+		if (this.isUser(user)) {
+			var obj = this.getUser(user);
+			
+			this.id = obj.id;
+			this.tag = obj.tag;
+			this.name = obj.username;
+			this.avatar = obj.avatarURL;
+
+			if (this.interviews != undefined)
+				this.interviews = user.interviews;
+			else
+				this.interviews = {};
+
+		} else {
+			this.id = user.id;
+			this.tag = user.tag;
+			this.name = user.username;
+			this.avatar = user.avatarURL;
+			
+			if (this.interviews != undefined)
+				this.interviews = user.interviews;
+			else
+				this.interviews = {};
+
+			this.setUser();
+		}	
 	}
 
 	addInterview (guildId, channelId) {
@@ -32,68 +48,37 @@ class User {
 		});
 	}
 
-	getUser () {
-		var data = fs.readFileSync(`users/${this.id}.json`, 'utf8', (err) => {
+	getUser (user) {
+		var data = fs.readFileSync(`users/${user.id}.json`, 'utf8', (err) => {
 			if (err)
 				util.log(err);
 		});
 		if (data) {
 			// log(data);
-			return new User(JSON.parse(data)); //now it an object
+			return JSON.parse(data); //now it's an object
 		} else log("User not found.");
 	}
 
-	isUser () {
-		try {
-			// if channels with this.id and this.logCategory exist
+	// isUser () {
+	// 	try {
+	// 		// if channels with this.id and this.logCategory exist
 			
-			// util.log(guild.id);
+	// 		// util.log(guild.id);
 
-			if (this.isUserFile()) {
-				// true
-				return true;
-			// otherwise
-			} else {
-				//false
-				return false;
-			}
-		} catch (err) {
-			util.log(err);
-		}
-	}
+	// 		if (this.isUserFile()) {
+	// 			// true
+	// 			return true;
+	// 		// otherwise
+	// 		} else {
+	// 			//false
+	// 			return false;
+	// 		}
+	// 	} catch (err) {
+	// 		util.log(err);
+	// 	}
+	// }
 
-	isUserFile () {
-		try {
-			if (fs.existsSync(`users/${this.id}.json`))
-				return true;
-			else
-				return false;
-		} catch (err) {
-			util.log(err);
-		}
-	}
-
-	static isUser (guild, user) {
-		try {
-			var file = this.isUserFile(user);
-
-			// util.log(user.interviews[guild.id]);
-
-			// if channel with this.id and this.logCategory exist
-			if (file && guild.channels.cache.get(user.interviews[guild.id])) {
-				// true
-				return true;
-			// otherwise
-			} else {
-				//false
-				return false;
-			}
-		} catch (err) {
-			util.log(err);
-		}
-	}
-
-	static isUserFile (user) {
+	isUser (user) {
 		try {
 			if (fs.existsSync(`users/${user.id}.json`))
 				return true;
@@ -101,8 +86,40 @@ class User {
 				return false;
 		} catch (err) {
 			util.log(err);
+			return false;
 		}
 	}
+
+	// static isUser (guild, user) {
+	// 	try {
+	// 		var file = this.isUserFile(user);
+
+	// 		// util.log(user.interviews[guild.id]);
+
+	// 		// if channel with this.id and this.logCategory exist
+	// 		if (file && guild.channels.cache.get(user.interviews[guild.id])) {
+	// 			// true
+	// 			return true;
+	// 		// otherwise
+	// 		} else {
+	// 			//false
+	// 			return false;
+	// 		}
+	// 	} catch (err) {
+	// 		util.log(err);
+	// 	}
+	// }
+
+	// static isUserFile (user) {
+	// 	try {
+	// 		if (fs.existsSync(`users/${user.id}.json`))
+	// 			return true;
+	// 		else
+	// 			return false;
+	// 	} catch (err) {
+	// 		util.log(err);
+	// 	}
+	// }
 
 	// isUserFile () {
 	// 	try {

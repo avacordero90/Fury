@@ -159,11 +159,13 @@ function startInterview (msg) {
 	// if server has not been setup yet
 	var server = new Server(msg.guild);
 	var user = new User(msg.author);
+	
 	// util.log(server.logCategory);
+	util.log(JSON.stringify(user.interviews));
 
 	if (server.logCategory == -1) {
 		util.reply(msg, "Emissary", "Emissary has not been set up on this server yet.")
-	} else if (user.interviews[server.id]) != undefined) {
+	} else if (user.interviews.hasOwnProperty(server.id)) {
 		util.reply(msg, "Emissary", "Interview has already been started.")
 	} else {
 		try {
@@ -189,28 +191,28 @@ function getLogCategory(msg, server) {
 }
 
 async function createUserChannel (msg) {
-	var channels = msg.guild.channels;
-	var guildId = msg.guild.id;
-	var user = new User(msg.author);
 	var server = new Server(msg.guild);
+	var user = new User(msg.author);
+	var channels = msg.guild.channels;
 
 	// var category = await channels.cache.get(server.logCategory);
 	var category = await getLogCategory(msg, server);
 
-	user.addInterview(guildId, category.id);
-	
+	user.addInterview(server.id, category.id);
+
+	util.log(JSON.stringify(user.interviews));
+
 	channels.create(user.tag, {
 		type: 'text',
 		parent: category,
 		permissionOverwrites: [{
-			id: guildId,
+			id: server.id,
 			deny: ['VIEW_CHANNEL']
 		}]
 	});
 
 }
 
-// END BUGGY SECTION 
 
 
 client.on("ready", () => {
