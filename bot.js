@@ -158,16 +158,16 @@ async function createLogChannel (msg) {
 function startInterview (msg) {
 	// if server has not been setup yet
 	var server = new Server(msg.guild);
-
+	var user = new User(msg.author);
 	// util.log(server.logCategory);
 
 	if (server.logCategory == -1) {
 		util.reply(msg, "Emissary", "Emissary has not been set up on this server yet.")
-	} else if (User.isUser(msg.guild, msg.author)) {
+	} else if (user.interviews[server.id]) != undefined) {
 		util.reply(msg, "Emissary", "Interview has already been started.")
 	} else {
 		try {
-			var user = new User(msg.author);
+			// var user = new User(msg.author);
 			var nick = msg.member.nickname;
 
 			// create user's interview channel
@@ -182,11 +182,8 @@ function startInterview (msg) {
 	}
 }
 
-// BEGIN BUGGY SECTION
-
 function getLogCategory(msg, server) {
 	return new Promise(resolve => {
-
 		return resolve(msg.guild.channels.cache.get(server.logCategory));
 	});
 }
@@ -198,7 +195,7 @@ async function createUserChannel (msg) {
 	var server = new Server(msg.guild);
 
 	// var category = await channels.cache.get(server.logCategory);
-	var category = await getLogCategory(msg, server); // <-- BUG SHOWS ITS UGLY FACE HERE
+	var category = await getLogCategory(msg, server);
 
 	user.addInterview(guildId, category.id);
 	
