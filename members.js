@@ -1,15 +1,14 @@
 /*
 	members
-		by Luna Catastrophe
+		by Luna
 		Created: 12/21/2019
-		Latest: 7/4/2020
-		Description: Backs up users of a group and restores the backup by sending invites to the backup list.
+		Latest: 7/25/2020
+		Description: Backs up members of a server and restores the backup by sending invites to the backup list.
 */
 
 /*
 	TODO
-		* createBackupFile should write entire cache to file, now that it's enabled by discord.
-		* restoreBackup should read entire cache and send invite to each user object
+		test storing discordjs objects
 */
 
 
@@ -70,6 +69,17 @@ exports.backupCreate = function backupCreate (msg) {
 	// guilds[msg.guild.id] = msg.guild;
 	// util.log(guilds)
 
+	var memberInfo = "Member Tag\t\tMember ID\n";
+
+	// for each guild member
+	for (const [key, value] of msg.guild.members.cache)
+		// record their tag and id
+		if (!value.user.bot) memberInfo += `${value.user.tag}\t\t${value.user.id}\n`
+	
+	// create the backup file
+	var backupFile = backupFileCreate(msg, memberInfo);
+
+	// add the guild to the guild dict
 	guilds[msg.guild.id] = msg.guild;
 	util.log(guilds[msg.guild.id]);
 

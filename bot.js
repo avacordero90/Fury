@@ -1,9 +1,9 @@
 /*
-	bot.js
-		Luna
+	bot.js - Fury
+		by Luna
 		created: 1/2/2020
-		latest: 1/11/2020
-		version: 1.2
+		latest: 7/25/2020
+		version: 1.3
 */
 
 
