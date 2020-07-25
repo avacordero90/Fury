@@ -1,5 +1,6 @@
 node_modules/
-auth.json
 backups/*
 servers/*
 users/*
+auth.json
+bot.log
