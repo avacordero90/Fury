@@ -101,52 +101,54 @@ function reply (msg, title = "Fury", reply, avatar = null) {
 // }
 
 function replyDM (msg, title, reply, avatar = null, file = null) {
-	try {
-	    if (avatar && file) {
-		    var embed = new MessageEmbed()
-				// Set the avatar
-				.setImage(avatar)
-				// Set the title of the field
-				.setTitle(title)
-				// Set the color of the embed
-				.setColor(0xc2261f)
-				//	 Set the main content of the embed
-				.setDescription(reply)
-				// Set the file attachment for the backup
-				.attachFiles([file]);
-		} else if (avatar) {
-		    var embed = new MessageEmbed()
-				// Set the avatar
-				.setImage(avatar)
-				// Set the title of the field
-				.setTitle(title)
-				// Set the color of the embed
-				.setColor(0xc2261f)
-				//	 Set the main content of the embed
-				.setDescription(reply);
-		} if (file) {
-		    var embed = new MessageEmbed()
-				// Set the title of the field
-				.setTitle(title)
-				// Set the color of the embed
-				.setColor(0xc2261f)
-				//	 Set the main content of the embed
-				.setDescription(reply)
-				// Set the file attachment for the backup
-				.attachFiles([file]);
-		} else {
-		    var embed = new MessageEmbed()
-				// Set the title of the field
-				.setTitle(title)
-				// Set the color of the embed
-				.setColor(0xc2261f)
-				//	 Set the main content of the embed
-				.setDescription(reply);		
+	if (!msg.author.bot) {
+		try {
+			if (avatar && file) {
+				var embed = new MessageEmbed()
+					// Set the avatar
+					.setImage(avatar)
+					// Set the title of the field
+					.setTitle(title)
+					// Set the color of the embed
+					.setColor(0xc2261f)
+					//	 Set the main content of the embed
+					.setDescription(reply)
+					// Set the file attachment for the backup
+					.attachFiles([file]);
+			} else if (avatar) {
+				var embed = new MessageEmbed()
+					// Set the avatar
+					.setImage(avatar)
+					// Set the title of the field
+					.setTitle(title)
+					// Set the color of the embed
+					.setColor(0xc2261f)
+					//	 Set the main content of the embed
+					.setDescription(reply);
+			} if (file) {
+				var embed = new MessageEmbed()
+					// Set the title of the field
+					.setTitle(title)
+					// Set the color of the embed
+					.setColor(0xc2261f)
+					//	 Set the main content of the embed
+					.setDescription(reply)
+					// Set the file attachment for the backup
+					.attachFiles([file]);
+			} else {
+				var embed = new MessageEmbed()
+					// Set the title of the field
+					.setTitle(title)
+					// Set the color of the embed
+					.setColor(0xc2261f)
+					//	 Set the main content of the embed
+					.setDescription(reply);		
+			}
+			// Send the embed to the same channel as the message
+			msg.author.send(embed);
+		} catch (err) {
+			log(err);
 		}
-		// Send the embed to the same channel as the message
-		msg.author.send(embed);
-	} catch (err) {
-		log(err);
 	}
 }
 
