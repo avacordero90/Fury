@@ -87,7 +87,7 @@ function reply (msg, title = "Fury", reply, avatar = null) {
 // 	try {
 // 	    var embed = new MessageEmbed()
 // 			// Set the title of the field
-// 			.setTitle("Emissary")
+// 			.setTitle("Fury")
 // 			// Set the color of the embed
 // 			.setColor(0xc2261f)
 // 			//	 Set the main content of the embed

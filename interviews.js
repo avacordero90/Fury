@@ -11,7 +11,7 @@ const Server = require("./server.js");
 const util = require("./util.js");
 
 
-let intMsg = "Thank you for using Fury Emissary! Your interview will begin as soon as a Mod or Admin has become available. Thank you for your patience!"
+let intMsg = "Thank you for using Fury ! Your interview will begin as soon as a Mod or Admin has become available. Thank you for your patience!"
 
 
 exports.setup = async function setup (msg) {
@@ -21,12 +21,12 @@ exports.setup = async function setup (msg) {
 
 	// if (server.logCategory != -1) {
 	if (server.logCategory != -1 && category != undefined) {
-		util.reply(msg, "Fury Emissary", "Setup has been previously completed.")
+		util.reply(msg, "Fury ", "Setup has been previously completed.")
 		// server = getMsgServer(msg);
 	} else {
 		createLogChannel(msg);
 		// server = getMsgServer(msg);
-		util.reply(msg, "Fury Emissary", "Setup complete.")
+		util.reply(msg, "Fury ", "Setup complete.")
 	// }		
 	}
 }
@@ -42,13 +42,13 @@ exports.start = async function start (msg) {
 	const channel = await getInterviewChannel(msg.guild, user);
 
 	if (server.logCategory == -1) {
-		util.reply(msg, "Fury Emissary", "Emissary has not been set up on this server yet.")
+		util.reply(msg, "Fury ", "Fury has not been set up on this server yet.")
 	} else if (server.id in user.interviews && channel != undefined) {
 		if (channel.deleted) {
 			startInterview(msg);
 			// sendQuestion(server, msg);
 		} else
-			util.reply(msg, "Fury Emissary", "Interview has already been started.");
+			util.reply(msg, "Fury ", "Interview has already been started.");
 	} else {
 		startInterview(msg);
 		// sendQuestion(server, msg);
@@ -74,7 +74,7 @@ async function sendAnswerMsg (user, msg) {
 	// try {
 	    const embed = new MessageEmbed()
 			// Set the title of the field
-			.setTitle("Emissary")
+			.setTitle("Fury")
 			// Set the color of the embedconst
 			.setColor(0xc2261f)
 			//	 Set the main content of the embed
@@ -103,7 +103,7 @@ async function sendQuestionMsg (server, msg) {
 	// try {
 	    const embed = new MessageEmbed()
 			// Set the title of the field
-			.setTitle("Emissary")
+			.setTitle("Fury")
 			// Set the color of the embed
 			.setColor(0xc2261f)
 			//	 Set the main content of the embed
@@ -144,7 +144,7 @@ function createLogCategory (msg) {
 		
 		return new Promise(createCategory => {
 			createCategory(
-				channels.create('Fury Emissary', {
+				channels.create('Fury ', {
 					type: 'category',
 					permissionOverwrites: [{
 						id: id,
@@ -171,7 +171,7 @@ async function createLogChannel (msg) {
 
 		server.setLogCategory(msg.guild, category);
 
-		channels.create('Emissary Logs', {
+		channels.create('Fury Logs', {
 			type: 'text',
 			parent: category,
 			permissionOverwrites: [{
@@ -206,8 +206,8 @@ function startInterview (msg) {
 		createInterview(msg);
 		
 		// reply to user
-		util.replyDM(msg, "Emissary", intMsg);
-		util.reply(msg, "Emissary", `${name} is ready to begin interview. Please check your DMs.`);
+		util.replyDM(msg, "Fury", intMsg);
+		util.reply(msg, "Fury", `${name} is ready to begin interview. Please check your DMs.`);
 	} catch (ex) {
 		util.log(ex);
 	}
