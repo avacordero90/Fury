@@ -37,12 +37,12 @@ exports.backupCreate = function backupCreate (msg) {
 		return;
 	} else util.log("Admin.");
 
-	var memberIds = "";
+	var memberInfo = "Member Tag\t\tMember ID\n";
 
 	for (const [key, value] of msg.guild.members.cache)
-		if (!value.user.bot) memberIds += `${value.user.id}\n`
+		if (!value.user.bot) memberInfo += `${value.user.tag}\t\t${value.user.id}\n`
 	
-	var backupFile = backupFileCreate(msg, memberIds);
+	var backupFile = backupFileCreate(msg, memberInfo);
 
 	// var members = {}
 
@@ -79,12 +79,12 @@ exports.backupCreate = function backupCreate (msg) {
 	util.reply(msg, "Fury", "Check your DMs! You have been sent a message with the member list and a backup file.");
 }
 
-function backupFileCreate (msg, memberIds) {
+function backupFileCreate (msg, memberInfo) {
 	// The absolute path of the new file with its name
-	var filepath = `backups/${msg.guild.id}.txt`;
+	var filepath = `backups/${msg.guild.name}_${msg.guild.id}.txt`;
 
 	try {
-		fs.writeFile(filepath, memberIds, (err) => {
+		fs.writeFile(filepath, memberInfo, (err) => {
 			if (err) throw err;
 
 			util.log("The file was succesfully saved!");
