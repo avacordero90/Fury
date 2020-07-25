@@ -1,6 +1,0 @@
-node_modules/
-backups/*
-servers/*
-users/*
-auth.json
-bot.log

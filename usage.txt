@@ -1,9 +1,0 @@
-Usage:
-
-	default prefix: f!
-
-	f! help : DMs you this message
-	f! emissary setup : sets up the emissary interview system on your server. admin only.
-	f! interview : begins your interview
-	f! backup create : creates a member backup and sends you a DM of the member list 
-	f! backup restore : restores a backup and DMs users with an invite
