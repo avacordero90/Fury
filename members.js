@@ -3,12 +3,12 @@
 		by Luna
 		Created: 12/21/2019
 		Latest: 7/25/2020
-		Description: Backs up guild members of a group and restores the backup by sending invites to the backup list.
+		Description: Backs up members of a server and restores the backup by sending invites to the backup list.
 */
 
 /*
 	TODO
-		
+		test storing discordjs objects
 */
 
 
@@ -38,6 +38,39 @@ exports.backupCreate = function backupCreate (msg) {
 
 	var memberInfo = "Member Tag\t\tMember ID\n";
 
+	for (const [key, value] of msg.guild.members.cache)
+		if (!value.user.bot) memberInfo += `${value.user.tag}\t\t${value.user.id}\n`
+	
+	var backupFile = backupFileCreate(msg, memberInfo);
+
+	// var members = {}
+
+	// // for each user, add them to the dict of users
+	// for (const [key, value] of msg.guild.members.cache)
+	// 	if (!value.user.bot)
+	// 		guilds[msg.guild.id] = msg.guild.cache;
+
+	// // write the entire dict to file
+	// var backupFile = backupFileCreate(msg, members);
+
+	// // The absolute path of the new file with its name
+	// var filepath = `guilds/${msg.guild.id}.txt`;
+
+	// try {
+	// 	fs.writeFile(filepath, msg.guild.cache, (err) => {
+	// 		if (err) throw err;
+
+	// 		util.log("The file was succesfully saved!");
+	// 	});
+	// } catch (error) {
+	// 	util.log(error);
+	// }
+
+	// guilds[msg.guild.id] = msg.guild;
+	// util.log(guilds)
+
+	var memberInfo = "Member Tag\t\tMember ID\n";
+
 	// for each guild member
 	for (const [key, value] of msg.guild.members.cache)
 		// record their tag and id
@@ -50,8 +83,9 @@ exports.backupCreate = function backupCreate (msg) {
 	guilds[msg.guild.id] = msg.guild;
 	util.log(guilds[msg.guild.id]);
 
-	// Send the embed to the user
 	util.replyDM(msg, "Fury", `${msg.guild.name} member list has been backed up! see attached file. Run this command to restore your backup: ` + `<prefix> backup restore -n ${msg.guild.id}`, null, backupFile);
+
+	// Send the embed to the user
 	util.reply(msg, "Fury", "Check your DMs! You have been sent a message with the member list and a backup file.");
 }
 
