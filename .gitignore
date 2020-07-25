@@ -1,6 +1,9 @@
 node_modules/
-backups/*
-servers/*
-users/*
+
+backups/*.txt
+servers/*.txt
+users/*.txt
+
 auth.json
-bot.log
+package*.json
+*.log

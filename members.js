@@ -1,15 +1,14 @@
 /*
 	members
-		by Luna Catastrophe
+		by Luna
 		Created: 12/21/2019
-		Latest: 7/4/2020
-		Description: Backs up users of a group and restores the backup by sending invites to the backup list.
+		Latest: 7/25/2020
+		Description: Backs up guild members of a group and restores the backup by sending invites to the backup list.
 */
 
 /*
 	TODO
-		* createBackupFile should write entire cache to file, now that it's enabled by discord.
-		* restoreBackup should read entire cache and send invite to each user object
+		
 */
 
 
@@ -39,43 +38,20 @@ exports.backupCreate = function backupCreate (msg) {
 
 	var memberInfo = "Member Tag\t\tMember ID\n";
 
+	// for each guild member
 	for (const [key, value] of msg.guild.members.cache)
+		// record their tag and id
 		if (!value.user.bot) memberInfo += `${value.user.tag}\t\t${value.user.id}\n`
 	
+	// create the backup file
 	var backupFile = backupFileCreate(msg, memberInfo);
 
-	// var members = {}
-
-	// // for each user, add them to the dict of users
-	// for (const [key, value] of msg.guild.members.cache)
-	// 	if (!value.user.bot)
-	// 		guilds[msg.guild.id] = msg.guild.cache;
-
-	// // write the entire dict to file
-	// var backupFile = backupFileCreate(msg, members);
-
-	// // The absolute path of the new file with its name
-	// var filepath = `guilds/${msg.guild.id}.txt`;
-
-	// try {
-	// 	fs.writeFile(filepath, msg.guild.cache, (err) => {
-	// 		if (err) throw err;
-
-	// 		util.log("The file was succesfully saved!");
-	// 	});
-	// } catch (error) {
-	// 	util.log(error);
-	// }
-
-	// guilds[msg.guild.id] = msg.guild;
-	// util.log(guilds)
-
+	// add the guild to the guild dict
 	guilds[msg.guild.id] = msg.guild;
 	util.log(guilds[msg.guild.id]);
 
-	util.replyDM(msg, "Fury", `${msg.guild.name} member list has been backed up! see attached file. Run this command to restore your backup: ` + `<prefix> backup restore -n ${msg.guild.id}`, null, backupFile);
-
 	// Send the embed to the user
+	util.replyDM(msg, "Fury", `${msg.guild.name} member list has been backed up! see attached file. Run this command to restore your backup: ` + `<prefix> backup restore -n ${msg.guild.id}`, null, backupFile);
 	util.reply(msg, "Fury", "Check your DMs! You have been sent a message with the member list and a backup file.");
 }
 
