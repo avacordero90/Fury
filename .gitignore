@@ -1,8 +1,8 @@
 node_modules/
 
 backups/*.txt
-servers/*.txt
-users/*.txt
+servers/*.json
+users/*.json
 
 auth.json
 package*.json
