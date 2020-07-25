@@ -1,5 +1,7 @@
 const fs = require('fs');
 
+const User = require("./user.js");
+
 const util = require("./util.js");
 
 
@@ -15,67 +17,18 @@ class Server {
 			
 			this.id = obj.id;
 			this.logCategory = obj.logCategory;
+			this.users = obj.users;
 		} else {
 		// if server file doesn't exist
 			// construct default Server
 			this.id = guild.id;
 			this.logCategory = -1
+			this.users = {};
 			
 			this.setServer();
 		}
 
 	}
-
-	// isServer () {
-	// 	try {
-	// 		// if channels with this.id and this.logCategory exist
-			
-	// 		// util.log(guild.id);
-
-	// 		if (this.isServerFile()) {
-	// 			// true
-	// 			return true;
-	// 		// otherwise
-	// 		} else {
-	// 			//false
-	// 			return false;
-	// 		}
-	// 	} catch (err) {
-	// 		util.log(err);
-	// 	}
-	// }
-
-	// // only used privately but #isServerFile gives error:
-	// // SyntaxError: Unexpected token '('
-	// isServerFile () {
-	// 	try {
-	// 		if (fs.existsSync(`servers/${this.id}.json`))
-	// 			return true;
-	// 		else
-	// 			return false;
-	// 	} catch (err) {
-	// 		util.log(err);
-	// 	}
-	// }
-
-	// static isServer () {
-	// 	try {
-	// 		// if channels with this.id and this.logCategory exist
-			
-	// 		// util.log(guild.id);
-
-	// 		if (this.isServerFile()) {
-	// 			// true
-	// 			return true;
-	// 		// otherwise
-	// 		} else {
-	// 			//false
-	// 			return false;
-	// 		}
-	// 	} catch (err) {
-	// 		util.log(err);
-	// 	}
-	// }
 
 	isServer (guild) {
 		try {
@@ -98,6 +51,11 @@ class Server {
 	// getLogCategory () {
 	// 	return this.logCategory;
 	// }
+
+	addUser (user, channel) {
+		this.users[channel.id] = user.id;
+		this.setServer();
+	}
 
 	setServer () {
 		var json = JSON.stringify(this);
