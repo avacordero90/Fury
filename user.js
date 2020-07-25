@@ -13,10 +13,13 @@ class User {
 			this.name = obj.username;
 			this.avatar = obj.avatarURL;
 
-			if (obj.interviews != undefined)
+			if (obj.interviews != undefined) {
 				this.interviews = obj.interviews;
-			else
+				this.activeInterview = obj.activeInterview
+			} else {
 				this.interviews = {};
+				this.activeInterview = -1
+			}
 
 		} else {
 			this.id = user.id;
@@ -24,19 +27,21 @@ class User {
 			this.name = user.username;
 			this.avatar = user.avatarURL;
 			
-			if (user.interviews != undefined)
+			if (user.interviews != undefined) {
 				this.interviews = user.interviews;
-			else
+				this.activeInterview = user.activeInterview;
+			} else {
 				this.interviews = {};
+				this.activeInterview = -1
+			}
 
 			this.setUser();
 		}	
 	}
 
-	addInterview (guildId, channelId) {
-		this.interviews[guildId] = channelId;
+	addInterview (server, channel) {
+		this.interviews[server.id] = channel.id;
 		this.setUser();
-
 	}
 
 	setUser () {

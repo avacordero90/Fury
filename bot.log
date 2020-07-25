@@ -1532,3 +1532,425 @@
 2020-3-22 13:15:10 : {"662436704640172032":"691379459865182308"}
 2020-3-22 13:15:14 : received command 'start' from user '247449907001163787'.
 2020-3-22 13:15:14 : {"662436704640172032":"691379459865182308"}
+2020-3-22 16:0:33 : received command 'setup' from user '247449907001163787'.
+2020-3-22 16:0:46 : received command 'start' from user '247449907001163787'.
+2020-3-22 16:0:46 : {"662436704640172032":"691379459865182308"}
+2020-3-22 19:24:56 : logged in as Fury#0565.
+2020-3-22 19:25:11 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:25:55 : logged in as Fury#0565.
+2020-3-22 19:26:1 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:26:1 : [object Promise]
+2020-3-22 19:26:35 : logged in as Fury#0565.
+2020-3-22 19:26:39 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:26:39 : undefined
+2020-3-22 19:26:55 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:26:55 : undefined
+2020-3-22 19:30:44 : logged in as Fury#0565.
+2020-3-22 19:30:55 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:31:50 : logged in as Fury#0565.
+2020-3-22 19:31:55 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:32:29 : logged in as Fury#0565.
+2020-3-22 19:32:37 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:32:37 : {"662436704640172032":"691473024087752784"}
+2020-3-22 19:32:44 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:32:54 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:38:5 : logged in as Fury#0565.
+2020-3-22 19:38:16 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:38:16 : {"662436704640172032":"691473024087752784"}
+2020-3-22 19:38:26 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:38:26 : {"662436704640172032":"691473024087752784"}
+2020-3-22 19:39:1 : logged in as Fury#0565.
+2020-3-22 19:39:12 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:40:36 : logged in as Fury#0565.
+2020-3-22 19:40:40 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:41:21 : logged in as Fury#0565.
+2020-3-22 19:41:25 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:42:1 : logged in as Fury#0565.
+2020-3-22 19:42:5 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:42:5 : false
+2020-3-22 19:44:5 : logged in as Fury#0565.
+2020-3-22 19:44:10 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:44:15 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:44:15 : {"662436704640172032":"691477364051279902"}
+2020-3-22 19:46:59 : logged in as Fury#0565.
+2020-3-22 19:47:4 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:47:11 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:47:11 : {}
+2020-3-22 19:51:23 : logged in as Fury#0565.
+2020-3-22 19:51:56 : logged in as Fury#0565.
+2020-3-22 19:52:44 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:52:51 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:52:59 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:53:20 : logged in as Fury#0565.
+2020-3-22 19:53:37 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:53:41 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:55:48 : logged in as Fury#0565.
+2020-3-22 19:56:4 : logged in as Fury#0565.
+2020-3-22 19:56:17 : received command 'setup' from user '247449907001163787'.
+2020-3-22 19:56:22 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:56:23 : {"662436704640172032":"691480436014186506"}
+2020-3-22 19:56:40 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:56:40 : false
+2020-3-22 19:56:49 : received command 'start' from user '247449907001163787'.
+2020-3-22 19:56:49 : {"662436704640172032":"691480545179205646"}
+2020-3-27 11:59:35 : logged in as Fury#0565.
+2020-3-27 12:4:14 : received command 'setup' from user '247449907001163787'.
+2020-3-27 12:4:17 : received command 'start' from user '247449907001163787'.
+2020-3-27 12:4:17 : {"662436704640172032":"693173570729279509"}
+2020-3-27 13:22:14 : logged in as Fury#0565.
+2020-3-27 13:22:21 : received command 'setup' from user '247449907001163787'.
+2020-3-27 13:22:28 : received command 'start' from user '247449907001163787'.
+2020-3-27 13:22:28 : {"662436704640172032":"693193245257236480"}
+2020-3-27 13:23:27 : logged in as Fury#0565.
+2020-3-27 13:23:32 : received command 'setup' from user '247449907001163787'.
+2020-3-27 13:23:34 : received command 'start' from user '247449907001163787'.
+2020-3-27 13:23:35 : {"662436704640172032":"693193524610465823"}
+2020-3-27 13:24:35 : logged in as Fury#0565.
+2020-3-27 13:24:41 : received command 'setup' from user '247449907001163787'.
+2020-3-27 13:24:43 : received command 'start' from user '247449907001163787'.
+2020-3-27 13:25:19 : logged in as Fury#0565.
+2020-3-27 13:25:23 : received command 'setup' from user '247449907001163787'.
+2020-3-27 13:25:26 : received command 'start' from user '247449907001163787'.
+2020-3-27 13:25:26 : {"662436704640172032":"693193991726039051"}
+2020-3-27 13:26:58 : logged in as Fury#0565.
+2020-3-27 13:27:4 : received command 'setup' from user '247449907001163787'.
+2020-3-27 13:27:6 : received command 'start' from user '247449907001163787'.
+2020-3-27 13:27:6 : {"662436704640172032":"693194411332599918"}
+2020-3-27 14:37:17 : logged in as Fury#0565.
+2020-3-27 14:37:24 : received command 'setup' from user '247449907001163787'.
+2020-3-27 14:37:28 : received command 'start' from user '247449907001163787'.
+2020-3-27 14:39:7 : logged in as Fury#0565.
+2020-3-27 14:39:14 : received command 'setup' from user '247449907001163787'.
+2020-3-27 14:39:16 : received command 'start' from user '247449907001163787'.
+2020-3-27 14:39:16 : ReferenceError: MessageEmbed is not defined
+2020-3-27 14:42:30 : logged in as Fury#0565.
+2020-3-27 14:42:40 : received command 'setup' from user '247449907001163787'.
+2020-3-27 14:42:42 : received command 'start' from user '247449907001163787'.
+2020-3-27 14:42:42 : ReferenceError: MessageEmbed is not defined
+2020-3-27 14:45:3 : logged in as Fury#0565.
+2020-3-27 14:45:8 : received command 'setup' from user '247449907001163787'.
+2020-3-27 14:45:10 : received command 'staret' from user '247449907001163787'.
+2020-3-27 14:45:15 : received command 'start' from user '247449907001163787'.
+2020-3-27 14:46:13 : logged in as Fury#0565.
+2020-3-27 14:46:21 : received command 'setup' from user '247449907001163787'.
+2020-3-27 14:46:23 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:1:23 : logged in as Fury#0565.
+2020-3-27 15:1:32 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:1:34 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:7:8 : logged in as Fury#0565.
+2020-3-27 15:7:19 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:7:22 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:7:40 : logged in as Fury#0565.
+2020-3-27 15:7:45 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:7:49 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:9:42 : logged in as Fury#0565.
+2020-3-27 15:9:53 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:9:56 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:11:21 : logged in as Fury#0565.
+2020-3-27 15:11:29 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:11:32 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:15:46 : logged in as Fury#0565.
+2020-3-27 15:16:1 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:16:6 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:16:14 : ReferenceError: MessageEmbed is not defined
+2020-3-27 15:24:44 : logged in as Fury#0565.
+2020-3-27 15:25:35 : logged in as Fury#0565.
+2020-3-27 15:27:23 : logged in as Fury#0565.
+2020-3-27 15:28:6 : logged in as Fury#0565.
+2020-3-27 15:32:24 : logged in as Fury#0565.
+2020-3-27 15:33:7 : logged in as Fury#0565.
+2020-3-27 15:33:11 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:33:19 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:33:42 : logged in as Fury#0565.
+2020-3-27 15:33:47 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:33:50 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:37:47 : logged in as Fury#0565.
+2020-3-27 15:37:56 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:38:0 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:40:44 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:40:46 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:40:53 : logged in as Fury#0565.
+2020-3-27 15:40:55 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:40:58 : received command 'start' from user '247449907001163787'.
+2020-3-27 15:48:13 : logged in as Fury#0565.
+2020-3-27 15:48:22 : received command 'setup' from user '247449907001163787'.
+2020-3-27 15:48:24 : received command 'start' from user '247449907001163787'.
+2020-4-2 12:45:5 : logged in as Fury#0565.
+2020-4-2 12:45:32 : received command 'setup' from user '247449907001163787'.
+2020-4-2 12:45:39 : received command 'start' from user '247449907001163787'.
+2020-4-2 12:47:0 : logged in as Fury#0565.
+2020-4-2 12:47:6 : received command ',setup' from user '247449907001163787'.
+2020-4-2 12:47:8 : received command ',start' from user '247449907001163787'.
+2020-4-2 12:51:0 : logged in as Fury#0565.
+2020-4-2 12:51:10 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 12:51:14 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 12:51:17 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 12:52:30 : logged in as Fury#0565.
+2020-4-2 12:52:40 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 12:52:55 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 12:53:42 : logged in as Fury#0565.
+2020-4-2 12:55:11 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 12:55:14 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 12:55:25 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 12:58:12 : logged in as Fury#0565.
+2020-4-2 12:58:20 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 12:58:23 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 12:58:25 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 13:1:56 : logged in as Fury#0565.
+2020-4-2 13:2:1 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:2:15 : logged in as Fury#0565.
+2020-4-2 13:2:48 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:2:51 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 13:3:48 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:3:51 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 13:4:3 : logged in as Fury#0565.
+2020-4-2 13:4:8 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:4:11 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 13:5:22 : logged in as Fury#0565.
+2020-4-2 13:6:32 : logged in as Fury#0565.
+2020-4-2 13:6:57 : logged in as Fury#0565.
+2020-4-2 13:7:1 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:7:3 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 13:7:9 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:8:32 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:11:12 : logged in as Fury#0565.
+2020-4-2 13:11:21 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:11:24 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 13:11:29 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:11:29 : here
+2020-4-2 13:12:27 : logged in as Fury#0565.
+2020-4-2 13:12:35 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:12:38 : received command 'f.start' from user '247449907001163787'.
+2020-4-2 13:12:42 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:12:42 : [object Object]
+2020-4-2 13:13:29 : logged in as Fury#0565.
+2020-4-2 13:13:34 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:13:34 : isDM: [object Object]
+2020-4-2 13:14:16 : logged in as Fury#0565.
+2020-4-2 13:14:21 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:14:21 : isAdm: true
+2020-4-2 13:14:21 : <@!247449907001163787>
+2020-4-2 13:16:8 : logged in as Fury#0565.
+2020-4-2 13:16:12 : received command 'f.switch' from user '247449907001163787'.
+2020-4-2 13:16:59 : logged in as Fury#0565.
+2020-4-2 13:17:6 : received command 'f.switch' from user '247449907001163787'.
+2020-4-2 13:17:6 : switchServer() not yet implemented.
+2020-4-2 13:19:45 : logged in as Fury#0565.
+2020-4-2 13:19:52 : received command 'f.switch' from user '247449907001163787'.
+2020-4-2 13:19:52 : switchServer() not yet implemented.
+2020-4-2 13:20:4 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:20:4 : <@!247449907001163787>
+2020-4-2 13:20:47 : logged in as Fury#0565.
+2020-4-2 13:20:55 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:20:55 : <@!247449907001163787>
+2020-4-2 13:31:27 : logged in as Fury#0565.
+2020-4-2 13:31:39 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:31:46 : received command 'hi' from user '247449907001163787'.
+2020-4-2 13:31:46 : isDM: true
+2020-4-2 13:32:6 : received command 'hello' from user '247449907001163787'.
+2020-4-2 13:38:29 : received command 'testing' from user '247449907001163787'.
+2020-4-2 13:38:44 : received command 'f.switch' from user '247449907001163787'.
+2020-4-2 13:38:59 : received command 'f.setup' from user '247449907001163787'.
+2020-4-2 13:39:11 : received command 'hey' from user '247449907001163787'.
+2020-4-2 13:41:27 : received command 'hey' from user '247449907001163787'.
+2020-4-2 13:41:34 : received command 'hi' from user '247449907001163787'.
+2020-7-4 11:20:49 : logged in as Fury#6293.
+2020-7-4 11:59:7 : logged in as Fury#6293.
+2020-7-4 12:0:3 : received command 'f.help' from user '643215091956842507'.
+2020-7-4 12:0:32 : received command 'f.help' from user '643215091956842507'.
+2020-7-4 12:0:40 : logged in as Fury#6293.
+2020-7-4 12:1:43 : logged in as Fury#6293.
+2020-7-4 12:1:51 : received command 'f.help' from user '643215091956842507'.
+2020-7-4 12:2:45 : received command 'f.backup create' from user '643215091956842507'.
+2020-7-4 12:4:53 : logged in as Fury#6293.
+2020-7-4 12:5:2 : received command 'f.backup create' from user '643215091956842507'.
+2020-7-4 12:5:19 : logged in as Fury#6293.
+2020-7-4 12:5:23 : received command 'f.backup create' from user '643215091956842507'.
+2020-7-4 12:7:21 : logged in as Fury#6293.
+2020-7-4 12:7:27 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:8:50 : logged in as Fury#6293.
+2020-7-4 12:8:56 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:10:26 : logged in as Fury#6293.
+2020-7-4 12:11:5 : logged in as Fury#6293.
+2020-7-4 12:11:11 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:11:59 : logged in as Fury#6293.
+2020-7-4 12:14:43 : logged in as Fury#6293.
+2020-7-4 12:16:25 : logged in as Fury#6293.
+2020-7-4 12:21:3 : logged in as Fury#6293.
+2020-7-4 12:21:7 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:21:7 : creating backup...
+2020-7-4 12:21:7 : Server.
+2020-7-4 12:21:7 : Admin.
+2020-7-4 12:21:7 : [object Object]
+2020-7-4 12:21:7 : TypeError: msg.guild.members is not iterable
+2020-7-4 12:24:53 : logged in as Fury#6293.
+2020-7-4 12:25:19 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:25:19 : creating backup...
+2020-7-4 12:25:19 : Server.
+2020-7-4 12:25:19 : Admin.
+2020-7-4 12:25:19 : [object Object]
+2020-7-4 12:25:19 : TypeError: msg.guild.members is not iterable
+2020-7-4 12:25:42 : logged in as Fury#6293.
+2020-7-4 12:25:54 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:25:54 : creating backup...
+2020-7-4 12:25:54 : Server.
+2020-7-4 12:25:54 : Admin.
+2020-7-4 12:25:54 : TypeError: msg.guild.members.values is not a function
+2020-7-4 12:26:23 : logged in as Fury#6293.
+2020-7-4 12:26:26 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:26:26 : creating backup...
+2020-7-4 12:26:26 : Server.
+2020-7-4 12:26:26 : Admin.
+2020-7-4 12:26:26 : {"cache":[{"guildID":"662436704640172032","userID":"247449907001163787","joinedTimestamp":1578007617867,"lastMessageChannelID":null,"premiumSinceTimestamp":null,"deleted":false,"nickname":"testing-bot lol","displayName":"testing-bot lol"},{"guildID":"662436704640172032","userID":"416358583220043796","joinedTimestamp":1584635694567,"lastMessageChannelID":null,"premiumSinceTimestamp":null,"deleted":false,"displayName":"Xenon"},{"guildID":"662436704640172032","userID":"643215091956842507","joinedTimestamp":1578246421522,"lastMessageChannelID":"691418021562024027","premiumSinceTimestamp":null,"deleted":false,"nickname":null,"displayName":"lunaaa"},{"guildID":"662436704640172032","userID":"690985242529497101","joinedTimestamp":1593890634887,"lastMessageChannelID":null,"premiumSinceTimestamp":null,"deleted":false,"nickname":null,"displayName":"luna's evil twin sister"},{"guildID":"662436704640172032","userID":"728716323462447176","joinedTimestamp":1593811276154,"lastMessageChannelID":null,"premiumSinceTimestamp":null,"deleted":false,"nickname":null,"displayName":"ArrBot"},{"guildID":"662436704640172032","userID":"728727845026791464","joinedTimestamp":1593886818436,"lastMessageChannelID":null,"premiumSinceTimestamp":null,"deleted":false,"nickname":null,"displayName":"Fury"}],"guild":{"members":["247449907001163787","416358583220043796","643215091956842507","690985242529497101","728716323462447176","728727845026791464"],"channels":["693221821419618335","693229972361314434","693212104865480755","691418021562024027","693194411332599918","693226142437605387","693221821067296829","693193803712168072","693226294338519070","691418015522357398","691418017732755466","695365086096916521","693229960491696208","691418014486233129","693214051093970954","693218177429274645","691418021025284148","695359711503056926","693219630864662648","695358279173275648","693228088414437446","695364776246771828","695360073614098462","695358673446371431","693229960881504347","693226173236248647","695360717636894740","691418022505873458","691418015815827477","695358305262108843","691418019561472051","693173557483667476","693219630462009434","693213437894852668","695360765414342696","691418018567290910","693193803946917979","693193245257236480","693193991726039051","693227335859830784","693226294732783667","693194401601683456","693219755804459078","695360072922169345","693219740423815180","695363683101966387","693228088817090591","693193977880641557","695361519055011880","693219643275477012","693227355023474768","695359711565971479","695362958057930825","695362622916132905","695364776720597012","693219740725936199","693212105410609253","693193217843265546","693193524610465823","693193977486114826","693213427375538188","695362958532018257","693226304585334936","695364787302957087","695365085584949308","695358280050147384","693218178268004402","695361510154960966","693221842479218748","693220279857578094","693193513529245706","695360135081754624","695358681411485727","693214353893228594","693193812306034748","691418019909599233","693214079938068480","693220279425433662","693212562535350282","693220288711622817","695360718152794152","693214050620014642","695361510209355798","695362969592135882","693220691012485201","695362634878550117","691418023554318337","693193513961128021","695359727093284964","691418016625459202","691418014125523077","693220681663381524","695358673056170044","693226141829300233","693173555986432051","695365095840284703","693194402075639918","693227335243268126","695363692472041564","693228098568716399","693220682271686798","693214362336231445","695363683534241903","693218186534846525","693173570729279509","695362623717245038","693214353226465380","693212562958974987","693193218048917585","693213427115491459","691418024921661460","691418023218905278"],"roles":["662436704640172032","665995185984897065","665995259502919695","665995356064055364","690236873201025054","690240812453330972","690240813510557744","728722051686203424","729038899053330502"],"deleted":false,"id":"662436704640172032","shardID":0,"name":"Luna's Bot Battle Arena","icon":"fea43e47dbc86b4c0f64edd13bcb184d","splash":null,"region":"us-west","memberCount":6,"large":false,"features":[],"applicationID":null,"afkTimeout":300,"afkChannelID":null,"systemChannelID":null,"premiumTier":0,"premiumSubscriptionCount":0,"verificationLevel":"NONE","explicitContentFilter":"DISABLED","mfaLevel":0,"joinedTimestamp":1593886818436,"defaultMessageNotifications":"ALL","systemChannelFlags":0,"vanityURLCode":null,"description":null,"banner":null,"rulesChannelID":null,"publicUpdatesChannelID":null,"ownerID":"247449907001163787","emojis":[],"createdTimestamp":1578007617865,"nameAcronym":"L'sBBA","iconURL":"https://cdn.discordapp.com/icons/662436704640172032/fea43e47dbc86b4c0f64edd13bcb184d.webp","splashURL":null,"bannerURL":null}}
+2020-7-4 12:26:26 : TypeError: msg.guild.members is not iterable
+2020-7-4 12:28:1 : logged in as Fury#6293.
+2020-7-4 12:28:7 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:28:7 : creating backup...
+2020-7-4 12:28:7 : Server.
+2020-7-4 12:28:7 : Admin.
+2020-7-4 12:28:7 : TypeError: Cannot read property 'bot' of undefined
+2020-7-4 12:28:43 : logged in as Fury#6293.
+2020-7-4 12:28:48 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:28:48 : creating backup...
+2020-7-4 12:28:48 : Server.
+2020-7-4 12:28:48 : Admin.
+2020-7-4 12:29:55 : logged in as Fury#6293.
+2020-7-4 12:30:4 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:30:4 : creating backup...
+2020-7-4 12:30:4 : Server.
+2020-7-4 12:30:4 : Admin.
+2020-7-4 12:31:43 : logged in as Fury#6293.
+2020-7-4 12:34:50 : logged in as Fury#6293.
+2020-7-4 12:34:59 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:34:59 : creating backup...
+2020-7-4 12:34:59 : Server.
+2020-7-4 12:34:59 : Admin.
+2020-7-4 12:42:1 : logged in as Fury#6293.
+2020-7-4 12:42:6 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:42:6 : creating backup...
+2020-7-4 12:42:6 : Server.
+2020-7-4 12:42:6 : Admin.
+2020-7-4 12:42:55 : logged in as Fury#6293.
+2020-7-4 12:43:1 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:43:1 : creating backup...
+2020-7-4 12:43:1 : Server.
+2020-7-4 12:43:1 : Admin.
+2020-7-4 12:44:56 : logged in as Fury#6293.
+2020-7-4 12:45:0 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:45:0 : creating backup...
+2020-7-4 12:45:0 : Server.
+2020-7-4 12:45:0 : Admin.
+2020-7-4 12:46:7 : logged in as Fury#6293.
+2020-7-4 12:46:13 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:46:13 : creating backup...
+2020-7-4 12:46:13 : Server.
+2020-7-4 12:46:13 : Admin.
+2020-7-4 12:46:13 : ReferenceError: backupFile is not defined
+2020-7-4 12:46:13 : The file was succesfully saved!
+2020-7-4 12:48:27 : logged in as Fury#6293.
+2020-7-4 12:48:45 : logged in as Fury#6293.
+2020-7-4 12:48:51 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:48:51 : creating backup...
+2020-7-4 12:48:51 : Server.
+2020-7-4 12:48:51 : Admin.
+2020-7-4 12:48:51 : TypeError: (intermediate value).setTitle(...).setColor(...).setDescription(...).attachFile is not a function
+2020-7-4 12:48:51 : The file was succesfully saved!
+2020-7-4 12:54:19 : logged in as Fury#6293.
+2020-7-4 12:54:23 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:54:23 : creating backup...
+2020-7-4 12:54:23 : Server.
+2020-7-4 12:54:23 : Admin.
+2020-7-4 12:54:23 : TypeError: (intermediate value).setTitle(...).setColor(...).setDescription(...).attachFile is not a function
+2020-7-4 12:54:23 : The file was succesfully saved!
+2020-7-4 12:55:2 : logged in as Fury#6293.
+2020-7-4 12:55:9 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:55:9 : creating backup...
+2020-7-4 12:55:9 : Server.
+2020-7-4 12:55:9 : Admin.
+2020-7-4 12:55:9 : The file was succesfully saved!
+2020-7-4 12:55:44 : received command 'f. backup restore' from user '643215091956842507'.
+2020-7-4 12:56:27 : received command 'f. backup restore -n 662436704640172032' from user '643215091956842507'.
+2020-7-4 12:56:27 : 662436704640172032
+2020-7-4 12:56:27 : Server.
+2020-7-4 12:56:27 : Admin.
+2020-7-4 12:56:27 : ReferenceError: guilds is not defined
+2020-7-4 12:57:16 : logged in as Fury#6293.
+2020-7-4 12:58:1 : logged in as Fury#6293.
+2020-7-4 12:58:8 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:58:8 : creating backup...
+2020-7-4 12:58:8 : Server.
+2020-7-4 12:58:8 : Admin.
+2020-7-4 12:58:8 : The file was succesfully saved!
+2020-7-4 12:58:14 : received command 'f. backup restore' from user '643215091956842507'.
+2020-7-4 12:58:47 : received command 'f. backup restore  -n 662436704640172032' from user '643215091956842507'.
+2020-7-4 12:59:5 : logged in as Fury#6293.
+2020-7-4 12:59:14 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 12:59:14 : creating backup...
+2020-7-4 12:59:14 : Server.
+2020-7-4 12:59:14 : Admin.
+2020-7-4 12:59:14 : The file was succesfully saved!
+2020-7-4 12:59:22 : received command 'f. backup restore -n 662436704640172032' from user '643215091956842507'.
+2020-7-4 12:59:22 : 662436704640172032
+2020-7-4 12:59:22 : Server.
+2020-7-4 12:59:22 : Admin.
+2020-7-4 12:59:22 : Created an invite with a code of gcBNTE
+2020-7-4 12:59:53 : logged in as Fury#6293.
+2020-7-4 13:0:17 : received command 'f. backup create' from user '643215091956842507'.
+2020-7-4 13:0:17 : creating backup...
+2020-7-4 13:0:17 : Server.
+2020-7-4 13:0:17 : Admin.
+2020-7-4 13:0:17 : The file was succesfully saved!
+2020-7-4 13:0:32 : received command 'f. backup restore -n 662436704640172032' from user '643215091956842507'.
+2020-7-4 13:0:32 : 662436704640172032
+2020-7-4 13:0:32 : Server.
+2020-7-4 13:0:32 : Admin.
+2020-7-4 13:0:32 : Created an invite with a code of gcBNTE
+2020-7-4 13:3:24 : logged in as Fury#6293.
+2020-7-4 13:5:39 : logged in as Fury#6293.
+2020-7-4 13:42:4 : logged in as Fury#6293.
+2020-7-4 13:42:12 : received command 'f. interview' from user '643215091956842507'.
+2020-7-4 13:43:27 : logged in as Fury#6293.
+2020-7-4 13:43:40 : received command 'f. setup' from user '643215091956842507'.
+2020-7-4 13:44:6 : logged in as Fury#6293.
+2020-7-4 13:44:11 : received command 'f. interview' from user '643215091956842507'.
+2020-7-4 13:44:22 : received command 'f. setup' from user '643215091956842507'.
+2020-7-4 13:44:27 : received command 'f. interview' from user '643215091956842507'.
+2020-7-4 13:45:10 : logged in as Fury#6293.
+2020-7-4 13:45:37 : received command 'f. start' from user '643215091956842507'.
+2020-7-4 13:45:51 : received command 'f. interview' from user '643215091956842507'.
+2020-7-4 13:46:3 : received command 'f. setup' from user '643215091956842507'.
+2020-7-4 13:46:25 : received command 'f. interview' from user '643215091956842507'.
+2020-7-4 13:47:51 : received command 'f. interview' from user '643215091956842507'.
+2020-7-4 13:57:30 : received command 'x! backup create' from user '643215091956842507'.
+2020-7-4 13:57:45 : received command 'x! help' from user '643215091956842507'.
+2020-7-4 13:58:5 : received command 'x!help backup' from user '643215091956842507'.
+2020-7-4 13:58:54 : received command 'x!backup load 40mxt8n0fl' from user '643215091956842507'.
+2020-7-4 13:59:11 : received command '' from user '643215091956842507'.
+2020-7-5 15:2:33 : logged in as Fury#6293.
+2020-7-5 15:2:48 : received command 'f!setup' from user '643215091956842507'.
+2020-7-5 15:2:48 : ReferenceError: interview is not defined
+2020-7-5 15:3:22 : logged in as Fury#6293.
+2020-7-5 15:3:30 : received command 'f!setup' from user '643215091956842507'.
+2020-7-5 15:3:58 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-5 15:3:58 : ReferenceError: interview is not defined
+2020-7-5 15:4:17 : logged in as Fury#6293.
+2020-7-5 15:4:27 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-5 15:5:57 : logged in as Fury#6293.
+2020-7-5 15:6:3 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-5 15:6:30 : logged in as Fury#6293.
+2020-7-5 15:6:44 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-5 15:6:59 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-5 15:7:9 : received command 'f! interview start' from user '643215091956842507'.
+2020-7-5 15:7:9 : ReferenceError: intMsg is not defined
+2020-7-5 15:7:52 : logged in as Fury#6293.
+2020-7-5 15:7:58 : received command 'f! interview start' from user '643215091956842507'.
+2020-7-5 15:8:18 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-5 15:8:28 : received command 'f!interview start' from user '643215091956842507'.
+2020-7-5 15:25:12 : received command 'testing' from user '643215091956842507'.
+2020-7-5 15:25:12 : ReferenceError: sendAnswer is not defined
+2020-7-5 15:26:16 : logged in as Fury#6293.
+2020-7-5 15:26:24 : received command 'testing' from user '643215091956842507'.
+2020-7-5 15:26:24 : TypeError: interviews.sendAnswer is not a function
+2020-7-5 15:26:40 : logged in as Fury#6293.
+2020-7-5 15:26:46 : received command 'tresting' from user '643215091956842507'.
+2020-7-5 15:26:46 : isDM: true

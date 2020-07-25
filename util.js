@@ -52,7 +52,7 @@ function log (logMsg) {
 	}
 }
 
-function reply (msg, title, reply, avatar = null) {
+function reply (msg, title = "Fury", reply, avatar = null) {
 	try {
 	    if (avatar) {
 		    var embed = new MessageEmbed()
@@ -80,9 +80,41 @@ function reply (msg, title, reply, avatar = null) {
 	}
 }
 
-function replyDM (msg, title, reply, avatar = null) {
+
+// move to bot.js?
+
+// function sendAnswer (userMsg, server, user) {
+// 	try {
+// 	    var embed = new MessageEmbed()
+// 			// Set the title of the field
+// 			.setTitle("Emissary")
+// 			// Set the color of the embed
+// 			.setColor(0xc2261f)
+// 			//	 Set the main content of the embed
+// 			.setDescription(userMsg);		
+
+// 		// Send the embed to the same channel as the message
+// 		msg.channel.send(embed);
+// 	} catch (err) {
+// 		log(err);
+// 	}
+// }
+
+function replyDM (msg, title, reply, avatar = null, file = null) {
 	try {
-	    if (avatar) {
+	    if (avatar && file) {
+		    var embed = new MessageEmbed()
+				// Set the avatar
+				.setImage(avatar)
+				// Set the title of the field
+				.setTitle(title)
+				// Set the color of the embed
+				.setColor(0xc2261f)
+				//	 Set the main content of the embed
+				.setDescription(reply)
+				// Set the file attachment for the backup
+				.attachFiles([file]);
+		} else if (avatar) {
 		    var embed = new MessageEmbed()
 				// Set the avatar
 				.setImage(avatar)
@@ -92,6 +124,16 @@ function replyDM (msg, title, reply, avatar = null) {
 				.setColor(0xc2261f)
 				//	 Set the main content of the embed
 				.setDescription(reply);
+		} if (file) {
+		    var embed = new MessageEmbed()
+				// Set the title of the field
+				.setTitle(title)
+				// Set the color of the embed
+				.setColor(0xc2261f)
+				//	 Set the main content of the embed
+				.setDescription(reply)
+				// Set the file attachment for the backup
+				.attachFiles([file]);
 		} else {
 		    var embed = new MessageEmbed()
 				// Set the title of the field
