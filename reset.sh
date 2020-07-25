@@ -7,6 +7,8 @@ for num in $nums; do
 	sudo kill -9 "$num" && echo "PID $num terminated..."
 done
 
+rm -rf ./backups/*
+rm -rf ./guilds/*
 rm -rf ./servers/*
 rm -rf ./users/*
 

@@ -101,7 +101,7 @@ function parseArgs (message) {
 	Process		: DMs the user with the contents of README.md.
 */
 function help (msg) {
-	const name = msg.member.displayName;
+	const name = msg.member.cache.displayName;
 
 	const data = fs.readFileSync(`usage.txt`, 'utf8', (err) => {
 		if (err)

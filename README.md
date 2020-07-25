@@ -31,12 +31,15 @@
 					1. close ticket *
 					2. kick user from verify server *
 	5. configurable from online dashboard?
-* IF DISCORD API ALLOWS THIS
-** RESEARCH NEEDED
 
 ## Usage:
 
 	default prefix: f.
 
-	f.help : DMs you the help menu
-	f.start : begin your journey!
+	f!help : DMs you the help menu
+	
+	f!interview setup : sets up the interview system in your server
+	f!interview start : starts an interview
+	
+	f!backup create : creates a backup of your server members
+	f!backup restore : restores a backup by sending invites

@@ -1954,3 +1954,160 @@
 2020-7-5 15:26:40 : logged in as Fury#6293.
 2020-7-5 15:26:46 : received command 'tresting' from user '643215091956842507'.
 2020-7-5 15:26:46 : isDM: true
+2020-7-24 18:59:27 : logged in as Fury#6293.
+2020-7-24 19:0:8 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-24 19:0:8 : creating backup...
+2020-7-24 19:0:8 : Server.
+2020-7-24 19:0:8 : Admin.
+2020-7-24 19:0:8 : The file was succesfully saved!
+2020-7-24 19:0:45 : received command 'f!interview start' from user '643215091956842507'.
+2020-7-24 19:0:57 : received command 'f!interview start' from user '643215091956842507'.
+2020-7-24 19:1:15 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-24 19:1:35 : received command 'f!interview start' from user '643215091956842507'.
+2020-7-25 10:6:43 : logged in as Fury#6293.
+2020-7-25 10:6:56 : received command 'f!interview' from user '643215091956842507'.
+2020-7-25 10:7:15 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-25 10:9:6 : logged in as Fury#6293.
+2020-7-25 10:9:29 : logged in as Fury#6293.
+2020-7-25 10:9:37 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-25 10:9:37 : TypeError: Cannot read property 'send' of undefined
+2020-7-25 10:10:30 : logged in as Fury#6293.
+2020-7-25 10:10:41 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-25 10:10:41 : TypeError: Cannot read property 'channel' of undefined
+2020-7-25 10:13:8 : logged in as Fury#6293.
+2020-7-25 10:15:35 : logged in as Fury#6293.
+2020-7-25 10:15:41 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-25 10:23:25 : logged in as Fury#6293.
+2020-7-25 10:23:37 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-25 10:23:52 : received command 'f!interview start' from user '643215091956842507'.
+2020-7-25 10:24:16 : received command 'f!interview setup' from user '643215091956842507'.
+2020-7-25 10:24:28 : received command 'f!insterview start' from user '643215091956842507'.
+2020-7-25 10:24:38 : received command 'f!interview start' from user '643215091956842507'.
+2020-7-25 10:25:21 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 10:25:36 : received command 'f!help' from user '643215091956842507'.
+2020-7-25 10:25:36 : TypeError: Cannot read property 'displayName' of null
+2020-7-25 10:28:2 : logged in as Fury#6293.
+2020-7-25 10:28:14 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 10:28:14 : creating backup...
+2020-7-25 10:28:14 : Server.
+2020-7-25 10:28:14 : Admin.
+2020-7-25 10:28:14 : The file was succesfully saved!
+2020-7-25 10:29:44 : received command 'f!backup restore -n 729073017476481187' from user '643215091956842507'.
+2020-7-25 10:29:44 : 729073017476481187
+2020-7-25 10:29:44 : Server.
+2020-7-25 10:29:44 : Admin.
+2020-7-25 10:29:44 : Created an invite with a code of ht3rkU
+2020-7-25 10:31:16 : logged in as Fury#6293.
+2020-7-25 10:31:33 : received command 'f!backup restore -n 729073017476481187' from user '643215091956842507'.
+2020-7-25 10:31:33 : 729073017476481187
+2020-7-25 10:31:33 : Server.
+2020-7-25 10:31:33 : Admin.
+2020-7-25 10:32:42 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 10:32:42 : creating backup...
+2020-7-25 10:32:42 : Server.
+2020-7-25 10:32:42 : Admin.
+2020-7-25 10:32:42 : The file was succesfully saved!
+2020-7-25 10:32:51 : received command 'f!backup restore -n 729073017476481187' from user '643215091956842507'.
+2020-7-25 10:32:51 : 729073017476481187
+2020-7-25 10:32:51 : Server.
+2020-7-25 10:32:51 : Admin.
+2020-7-25 10:32:51 : Created an invite with a code of ht3rkU
+2020-7-25 11:1:1 : logged in as Fury#6293.
+2020-7-25 11:1:18 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:1:18 : creating backup...
+2020-7-25 11:1:18 : Server.
+2020-7-25 11:1:18 : Admin.
+2020-7-25 11:1:18 : The file was succesfully saved!
+2020-7-25 11:1:18 : The file was succesfully saved!
+2020-7-25 11:2:29 : logged in as Fury#6293.
+2020-7-25 11:3:22 : logged in as Fury#6293.
+2020-7-25 11:3:29 : logged in as Fury#6293.
+2020-7-25 11:5:54 : logged in as Fury#6293.
+2020-7-25 11:5:59 : received command 'f!create backup' from user '643215091956842507'.
+2020-7-25 11:6:8 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:6:8 : creating backup...
+2020-7-25 11:6:8 : Server.
+2020-7-25 11:6:8 : Admin.
+2020-7-25 11:6:8 : ReferenceError: guild is not defined
+2020-7-25 11:6:8 : The file was succesfully saved!
+2020-7-25 11:8:16 : logged in as Fury#6293.
+2020-7-25 11:8:28 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:8:28 : creating backup...
+2020-7-25 11:8:28 : Server.
+2020-7-25 11:8:28 : Admin.
+2020-7-25 11:8:28 : The file was succesfully saved!
+2020-7-25 11:8:28 : The file was succesfully saved!
+2020-7-25 11:24:16 : logged in as Fury#6293.
+2020-7-25 11:24:35 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:24:35 : creating backup...
+2020-7-25 11:24:35 : Server.
+2020-7-25 11:24:35 : Admin.
+2020-7-25 11:24:35 : guilds
+2020-7-25 11:24:35 : ReferenceError: guild is not defined
+2020-7-25 11:24:35 : The file was succesfully saved!
+2020-7-25 11:25:1 : logged in as Fury#6293.
+2020-7-25 11:25:9 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:25:9 : creating backup...
+2020-7-25 11:25:9 : Server.
+2020-7-25 11:25:9 : Admin.
+2020-7-25 11:25:9 : guilds
+2020-7-25 11:25:9 : TypeError: Cannot read property 'members' of undefined
+2020-7-25 11:25:9 : The file was succesfully saved!
+2020-7-25 11:25:27 : logged in as Fury#6293.
+2020-7-25 11:25:34 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:25:34 : creating backup...
+2020-7-25 11:25:34 : Server.
+2020-7-25 11:25:34 : Admin.
+2020-7-25 11:25:34 : guilds
+2020-7-25 11:25:34 : [object Object]
+2020-7-25 11:25:34 : The file was succesfully saved!
+2020-7-25 11:29:0 : logged in as Fury#6293.
+2020-7-25 11:29:5 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:29:5 : creating backup...
+2020-7-25 11:29:5 : Server.
+2020-7-25 11:29:5 : Admin.
+2020-7-25 11:29:5 : guilds
+2020-7-25 11:29:5 : TypeError: guilds is not iterable
+2020-7-25 11:29:5 : The file was succesfully saved!
+2020-7-25 11:29:36 : logged in as Fury#6293.
+2020-7-25 11:29:40 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:29:40 : creating backup...
+2020-7-25 11:29:40 : Server.
+2020-7-25 11:29:40 : Admin.
+2020-7-25 11:29:40 : guilds
+2020-7-25 11:29:40 : TypeError: guilds is not iterable
+2020-7-25 11:29:40 : The file was succesfully saved!
+2020-7-25 11:32:32 : logged in as Fury#6293.
+2020-7-25 11:32:39 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:32:39 : creating backup...
+2020-7-25 11:32:39 : Server.
+2020-7-25 11:32:39 : Admin.
+2020-7-25 11:32:39 : TypeError: guilds is not iterable
+2020-7-25 11:32:39 : The file was succesfully saved!
+2020-7-25 11:34:27 : logged in as Fury#6293.
+2020-7-25 11:34:36 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:34:36 : creating backup...
+2020-7-25 11:34:36 : Server.
+2020-7-25 11:34:36 : Admin.
+2020-7-25 11:34:36 : ReferenceError: cache is not defined
+2020-7-25 11:34:36 : The file was succesfully saved!
+2020-7-25 11:34:47 : logged in as Fury#6293.
+2020-7-25 11:34:49 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:34:49 : creating backup...
+2020-7-25 11:34:49 : Server.
+2020-7-25 11:34:49 : Admin.
+2020-7-25 11:34:49 : TypeError: guilds is not iterable
+2020-7-25 11:34:49 : The file was succesfully saved!
+2020-7-25 11:35:55 : logged in as Fury#6293.
+2020-7-25 11:36:0 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:36:0 : creating backup...
+2020-7-25 11:36:0 : Server.
+2020-7-25 11:36:0 : Admin.
+2020-7-25 11:36:0 : Luna's Bots
+2020-7-25 11:36:0 : The file was succesfully saved!
+2020-7-25 11:37:24 : received command 'f!backup create' from user '643215091956842507'.
+2020-7-25 11:37:24 : creating backup...
+2020-7-25 11:37:24 : Server.
+2020-7-25 11:37:24 : Admin.
+2020-7-25 11:37:24 : Luna's Bots
+2020-7-25 11:37:24 : The file was succesfully saved!
