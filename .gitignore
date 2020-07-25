@@ -1,6 +1,6 @@
-./node_modules/
-./auth.json
-./backups/*
-./guilds/*
-./servers/*
-./users/*
+node_modules/
+auth.json
+backups/*
+guilds/*
+servers/*
+users/*
