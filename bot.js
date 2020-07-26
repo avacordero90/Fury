@@ -114,8 +114,24 @@ function help (msg) {
 	} else util.log("==> Error: Help file not found.");
 }
 
+// Program entry point
+util.log("powering on...");
+
 client.on("ready", () => {
-  util.log(`logged in as ${client.user.tag}.`);
+	util.log(`logged in as ${client.user.tag}.`);
+
+	// backups are lost on shutdown.
+	// they must be restored at boot.
+	util.log("starting guild backup rebuild");
+
+	// util.log(JSON.stringify(client.guilds.cache));
+
+	// for each guild
+	for (const guild of client.guilds.cache) {
+		//rebuild the backup
+		// util.log(JSON.stringify(guild));
+		members.backupRebuild(guild);
+	};
 });
 
 client.on("message", msg => {
