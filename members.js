@@ -67,7 +67,7 @@ exports.backupCreate = function backupCreate (msg) {
 			memberInfo += `${value.user.tag}\t\t${value.user.id}\n`
 	
 	// create the backup file
-	var backupFile = backupFileCreate(msg, memberInfo);
+	var backupFile = backupFileCreate(msg.guild, memberInfo);
 
 	// add the guild to the guild dict
 	guilds[msg.guild.id] = msg.guild;
